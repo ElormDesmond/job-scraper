@@ -1,0 +1,10 @@
+{
+  "preferred_locations": ["Ghana", "Remote"],
+  "job_categories": ["Web Development", "Cybersecurity", "Cloud/DevOps", "AI/ML"],
+  "min_salary_usd": 12000,
+  "must_include_sponsorship": false,
+  "prefer_diversity_roles": true,
+  "experience_level": "mid-level",
+  "excluded_companies": [],
+  "notification_frequency": "immediate"
+}

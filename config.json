@@ -1,0 +1,49 @@
+{
+  "ANTIGRAVITY_JOB_SCRAPER": {
+    "enabled": true,
+    "version": "1.0.0",
+    "sources": {
+      "linkedin": { "enabled": true, "rate_limit_per_min": 10 },
+      "glassdoor": { "enabled": true, "rate_limit_per_min": 5 },
+      "wellfound": { "enabled": true, "rate_limit_per_min": 8 },
+      "remoteok": { "enabled": true, "rate_limit_per_min": 15 },
+      "jobberman": { "enabled": true, "rate_limit_per_min": 12 },
+      "company_careers": { "enabled": true, "rate_limit_per_min": 10 }
+    },
+    "target_locations": {
+      "primary": ["Ghana", "Accra", "Kumasi", "Takoradi", "Tema"],
+      "secondary": ["Remote", "International", "United Kingdom", "United States", "Canada", "Netherlands", "Germany", "Nigeria"]
+    },
+    "job_categories": [
+      "Web Development",
+      "Cybersecurity",
+      "IoT/Embedded Systems",
+      "Cloud/DevOps",
+      "AI/ML",
+      "Systems Administration",
+      "IT Project Management",
+      "Tech Support"
+    ],
+    "verification_schedule": {
+      "full_scrape": "0 6 * * *",
+      "light_check": "0 14,22 * * *",
+      "url_verification": "0 3 * * */2",
+      "weekly_digest": "0 8 * * 1"
+    },
+    "filters": {
+      "min_salary_usd": 12000,
+      "require_visa_sponsorship": false,
+      "prefer_diversity_roles": true,
+      "exclude_scams": true
+    },
+    "output": {
+      "formats": ["json", "csv", "markdown"],
+      "notify_high_priority": true,
+      "weekly_digest": true
+    },
+    "retention": {
+      "days": 90,
+      "archive_expired": true
+    }
+  }
+}

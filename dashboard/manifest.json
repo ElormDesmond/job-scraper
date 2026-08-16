@@ -1,0 +1,22 @@
+{
+  "name": "Antigravity Job Scraper",
+  "short_name": "JobScraper",
+  "description": "IT & Tech Job Opportunities Monitor for Ghana, Remote & Diversity Initiatives",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#090d16",
+  "theme_color": "#090d16",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "https://img.icons8.com/emoji/192/000000/flag-ghana-emoji.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://img.icons8.com/emoji/512/000000/flag-ghana-emoji.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

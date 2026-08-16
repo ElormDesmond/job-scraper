@@ -1,0 +1,1511 @@
+[
+  {
+    "job_id": "jobberman_gh_201",
+    "job_title": "Cybersecurity SOC Analyst & Systems Admin",
+    "company_name": "Sika Financial Systems Ghana",
+    "company_website": "https://sikafinancial.com.gh",
+    "location": "Accra, Greater Accra, Ghana",
+    "work_location_type": "hybrid",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-08-31",
+    "source": "jobberman",
+    "source_url": "https://www.jobberman.com.gh/job/soc-analyst-sika",
+    "job_description_raw": "Sika Financial Systems is hiring a Cybersecurity SOC Analyst to monitor network security, conduct vulnerability testing, respond to incidents, and maintain SIEM infrastructure in Accra. Security+ or OSCP certification preferred. We foster an inclusive environment for women in technology and underrepresented groups.",
+    "salary_range": {
+      "min": 15000,
+      "max": 25000,
+      "currency": "GHS",
+      "type": "monthly"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "Cybersecurity",
+      "SOC Analyst",
+      "Network Engineering",
+      "Linux",
+      "Security+",
+      "SIEM",
+      "Python"
+    ],
+    "required_experience_years": {
+      "min": 2,
+      "preferred": 4
+    },
+    "required_education": [
+      "Bachelor in Computer Science",
+      "Information Technology"
+    ],
+    "preferred_qualifications": [
+      "OSCP",
+      "Security+",
+      "Experience with Splunk or Wireshark"
+    ],
+    "certifications_required": [
+      "Security+",
+      "OSCP"
+    ],
+    "programming_languages": [
+      "Python",
+      "Bash",
+      "SQL"
+    ],
+    "tools_frameworks": [
+      "Wireshark",
+      "Splunk",
+      "Linux",
+      "Docker"
+    ],
+    "company_size": "enterprise",
+    "company_industry": "Finance / Fintech",
+    "hiring_urgency": "urgent",
+    "visa_sponsorship": "no",
+    "work_visa_support": "Local position for Ghana residents",
+    "relocation_assistance": "partial",
+    "benefits_listed": [
+      "Competitive GHS Salary",
+      "Pension Scheme",
+      "Health Insurance",
+      "Continuous Training Stipend"
+    ],
+    "diversity_badges": [
+      "Women in Tech Initiatives",
+      "DEI Commitment",
+      "Disability-Inclusive Opportunities"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.436749Z",
+    "application_link": "https://www.jobberman.com.gh/job/soc-analyst-sika",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "jobberman_gh_202",
+    "job_title": "IoT & Embedded Systems Engineer",
+    "company_name": "AgriTech Ghana Innovations",
+    "company_website": "https://agritechgh.com",
+    "location": "Kumasi, Ashanti Region, Ghana",
+    "work_location_type": "on_site",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-05",
+    "source": "jobberman",
+    "source_url": "https://www.jobberman.com.gh/job/embedded-systems-engineer-agritech",
+    "job_description_raw": "Seeking an Embedded Systems and IoT Developer in Kumasi to program microcontrollers (ESP32, STM32, Raspberry Pi), build MQTT sensor networks for agricultural monitoring, and integrate edge computing models. We encourage young African diaspora returnees and local graduates to apply.",
+    "salary_range": {
+      "min": 12000,
+      "max": 18000,
+      "currency": "GHS",
+      "type": "monthly"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "C++",
+      "C",
+      "Python",
+      "IoT",
+      "Embedded Systems",
+      "MQTT",
+      "Raspberry Pi"
+    ],
+    "required_experience_years": {
+      "min": 2,
+      "preferred": 3
+    },
+    "required_education": [
+      "Bachelor in Computer Engineering or Electrical Engineering"
+    ],
+    "preferred_qualifications": [
+      "Experience with LoRaWAN and solar power management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "C++",
+      "C",
+      "Python",
+      "Bash"
+    ],
+    "tools_frameworks": [
+      "ESP32",
+      "Raspberry Pi",
+      "FreeRTOS",
+      "MQTT",
+      "Git"
+    ],
+    "company_size": "startup",
+    "company_industry": "Agriculture & Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "no",
+    "work_visa_support": "Local position",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Field stipend",
+      "Health insurance",
+      "Annual Performance Bonus"
+    ],
+    "diversity_badges": [
+      "African Diaspora Talent Programs",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.436792Z",
+    "application_link": "https://www.jobberman.com.gh/job/embedded-systems-engineer-agritech",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "linkedin_301",
+    "job_title": "Cloud DevOps Engineer (AWS / Terraform)",
+    "company_name": "Hubtel Ghana",
+    "company_website": "https://hubtel.com",
+    "location": "Accra, Ghana",
+    "work_location_type": "hybrid",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-05",
+    "source": "linkedin",
+    "source_url": "https://www.linkedin.com/jobs/view/devops-engineer-hubtel",
+    "job_description_raw": "Hubtel is looking for a Cloud DevOps Engineer to scale high-throughput payment gateways and cloud infrastructure across AWS, Kubernetes, Terraform, and CI/CD pipelines. Hubtel is an equal opportunity employer dedicated to fostering women leadership and diversity in African tech.",
+    "salary_range": {
+      "min": 25000,
+      "max": 40000,
+      "currency": "GHS",
+      "type": "monthly"
+    },
+    "salary_confidence": "estimated",
+    "required_skills": [
+      "AWS",
+      "Docker",
+      "Kubernetes",
+      "Terraform",
+      "Python",
+      "CI/CD",
+      "Linux"
+    ],
+    "required_experience_years": {
+      "min": 3,
+      "preferred": 5
+    },
+    "required_education": [
+      "Bachelor in Computer Science / IT"
+    ],
+    "preferred_qualifications": [
+      "AWS Certified DevOps Engineer"
+    ],
+    "certifications_required": [
+      "AWS Certified"
+    ],
+    "programming_languages": [
+      "Python",
+      "Go",
+      "Bash"
+    ],
+    "tools_frameworks": [
+      "AWS",
+      "Kubernetes",
+      "Docker",
+      "Terraform",
+      "Ansible",
+      "Git"
+    ],
+    "company_size": "enterprise",
+    "company_industry": "Fintech / Telecommunications",
+    "hiring_urgency": "urgent",
+    "visa_sponsorship": "case_by_case",
+    "work_visa_support": "Open to regional African talent requiring visa or work authorization in Ghana",
+    "relocation_assistance": "partial",
+    "benefits_listed": [
+      "Healthcare",
+      "Stock Options",
+      "Flexible Working Hours",
+      "Skill Certification Budget"
+    ],
+    "diversity_badges": [
+      "Women in Tech Initiatives",
+      "BIPOC / Underrepresented Minorities",
+      "DEI Commitment"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.436996Z",
+    "application_link": "https://www.linkedin.com/jobs/view/devops-engineer-hubtel",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "linkedin_302",
+    "job_title": "AI/ML Engineer - NLP & Computer Vision",
+    "company_name": "Google Africa Research Center",
+    "company_website": "https://google.com",
+    "location": "Accra, Ghana",
+    "work_location_type": "hybrid",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-20",
+    "source": "linkedin",
+    "source_url": "https://www.linkedin.com/jobs/view/aiml-engineer-google-accra",
+    "job_description_raw": "Google's AI Research Lab in Accra is hiring Machine Learning Engineers to work on AI models tailored to local languages and agriculture challenges. Must be proficient in PyTorch/TensorFlow, Python, and Large Language Models. Full visa sponsorship and relocation support provided for international and diaspora candidates.",
+    "salary_range": {
+      "min": 60000,
+      "max": 95000,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "Python",
+      "PyTorch",
+      "TensorFlow",
+      "Machine Learning",
+      "NLP",
+      "Computer Vision",
+      "C++"
+    ],
+    "required_experience_years": {
+      "min": 3,
+      "preferred": 5
+    },
+    "required_education": [
+      "Master or Ph.D in Computer Science / Artificial Intelligence"
+    ],
+    "preferred_qualifications": [
+      "Publications in NeurIPS, ICML, or ACL"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "Python",
+      "C++",
+      "SQL"
+    ],
+    "tools_frameworks": [
+      "PyTorch",
+      "TensorFlow",
+      "Docker",
+      "GCP",
+      "Kubernetes"
+    ],
+    "company_size": "enterprise",
+    "company_industry": "Technology / AI Research",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "yes",
+    "work_visa_support": "Full global visa sponsorship, relocation package, and housing assistance provided for Ghana",
+    "relocation_assistance": "yes",
+    "benefits_listed": [
+      "Global Relocation Package",
+      "Full Health & Dental",
+      "401k/Pension",
+      "Generous Equity Grant"
+    ],
+    "diversity_badges": [
+      "African Diaspora Talent Programs",
+      "BIPOC / Underrepresented Minorities",
+      "Women in Tech Initiatives",
+      "Disability-Inclusive Opportunities",
+      "LGBTQ+ Friendly Workplace Badges"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.437034Z",
+    "application_link": "https://www.linkedin.com/jobs/view/aiml-engineer-google-accra",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "glassdoor_401",
+    "job_title": "Lead Software Engineer - MERN / React Native",
+    "company_name": "mPharma",
+    "company_website": "https://mpharma.com",
+    "location": "Accra, Ghana",
+    "work_location_type": "hybrid",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-06",
+    "source": "glassdoor",
+    "source_url": "https://www.glassdoor.com/job-listing/lead-software-engineer-mpharma",
+    "job_description_raw": "mPharma is hiring a Lead Software Engineer in Accra to oversee healthcare inventory distribution platforms. Stack: React, React Native, Node.js, Express, MongoDB, and PostgreSQL. We promote equal opportunity, gender equality, and supportive maternity/paternity policies.",
+    "salary_range": {
+      "min": 30000,
+      "max": 48000,
+      "currency": "GHS",
+      "type": "monthly"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "React Native",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "PostgreSQL"
+    ],
+    "required_experience_years": {
+      "min": 5,
+      "preferred": 7
+    },
+    "required_education": [
+      "Bachelor in Computer Science / Software Engineering"
+    ],
+    "preferred_qualifications": [
+      "AWS Certification",
+      "Experience with healthcare compliance"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "tools_frameworks": [
+      "React",
+      "React Native",
+      "Node.js",
+      "Express",
+      "MongoDB",
+      "Docker"
+    ],
+    "company_size": "enterprise",
+    "company_industry": "Healthcare / Technology",
+    "hiring_urgency": "urgent",
+    "visa_sponsorship": "yes",
+    "work_visa_support": "Assistance for West African talent relocating to Ghana",
+    "relocation_assistance": "partial",
+    "benefits_listed": [
+      "Health Insurance",
+      "Paternity & Maternity Leave",
+      "Gym Membership",
+      "Equity"
+    ],
+    "diversity_badges": [
+      "Women in Tech Initiatives",
+      "BIPOC / Underrepresented Minorities",
+      "DEI Commitment"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.437220Z",
+    "application_link": "https://www.glassdoor.com/job-listing/lead-software-engineer-mpharma",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "wellfound_501",
+    "job_title": "Senior Frontend Developer (React / Tailwind)",
+    "company_name": "Paystack (Stripe Company)",
+    "company_website": "https://paystack.com",
+    "location": "Remote (Ghana / Nigeria)",
+    "work_location_type": "remote_only",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-13",
+    "source": "wellfound",
+    "source_url": "https://wellfound.com/jobs/paystack-senior-frontend-developer",
+    "job_description_raw": "Paystack is building financial infrastructure for Africa. We are hiring a Senior Frontend Developer experienced in React, TypeScript, TailwindCSS, and web accessibility standards. We proudly support LGBTQ+ friendly workplace initiatives and African diaspora tech programs.",
+    "salary_range": {
+      "min": 50000,
+      "max": 80000,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "JavaScript",
+      "TypeScript",
+      "React",
+      "Next.js",
+      "Tailwind",
+      "CSS3",
+      "Git"
+    ],
+    "required_experience_years": {
+      "min": 4,
+      "preferred": 6
+    },
+    "required_education": [
+      "Bachelor degree or equivalent practical experience"
+    ],
+    "preferred_qualifications": [
+      "Experience with payment gateways and web security"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "JavaScript",
+      "TypeScript",
+      "HTML5",
+      "CSS3"
+    ],
+    "tools_frameworks": [
+      "React",
+      "Next.js",
+      "Tailwind",
+      "Jest",
+      "GraphQL"
+    ],
+    "company_size": "enterprise",
+    "company_industry": "Fintech",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "yes",
+    "work_visa_support": "Full international remote contract or local employment entity in Ghana/Nigeria",
+    "relocation_assistance": "yes",
+    "benefits_listed": [
+      "USD Compensation",
+      "Annual Company Offsite",
+      "Comprehensive Health Insurance",
+      "Wellness Stipend"
+    ],
+    "diversity_badges": [
+      "LGBTQ+ Friendly Workplace Badges",
+      "African Diaspora Talent Programs",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.437411Z",
+    "application_link": "https://wellfound.com/jobs/paystack-senior-frontend-developer",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "careers_601",
+    "job_title": "Software Engineer II - Cloud & Microservices",
+    "company_name": "Microsoft Africa Development Centre (ADC)",
+    "company_website": "https://microsoft.com/africa/adc",
+    "location": "Accra, Ghana",
+    "work_location_type": "hybrid",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-15",
+    "source": "company_careers",
+    "source_url": "https://careers.microsoft.com/us/en/job/adc-accra-software-engineer",
+    "job_description_raw": "Microsoft ADC Accra is seeking a Software Engineer II to build scalable cloud microservices on Azure using C#, Go, and Kubernetes. Microsoft is committed to diversity, disability-inclusive policies, equal opportunity, and African diaspora empowerment.",
+    "salary_range": {
+      "min": 55000,
+      "max": 85000,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "C#",
+      "Go",
+      "Azure",
+      "Kubernetes",
+      "Docker",
+      "Microservices",
+      "SQL"
+    ],
+    "required_experience_years": {
+      "min": 3,
+      "preferred": 5
+    },
+    "required_education": [
+      "B.S. in Computer Science or related STEM field"
+    ],
+    "preferred_qualifications": [
+      "Azure Solutions Architect Certification"
+    ],
+    "certifications_required": [
+      "Azure Certified"
+    ],
+    "programming_languages": [
+      "C#",
+      "Go",
+      "SQL",
+      "TypeScript"
+    ],
+    "tools_frameworks": [
+      "Azure",
+      "Kubernetes",
+      "Docker",
+      "NET Core",
+      "Git"
+    ],
+    "company_size": "enterprise",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "yes",
+    "work_visa_support": "Full international visa sponsorship, work authorization, and relocation to Ghana available",
+    "relocation_assistance": "yes",
+    "benefits_listed": [
+      "USD Base Salary",
+      "Stock Awards (RSUs)",
+      "Health Care",
+      "Parental Leave"
+    ],
+    "diversity_badges": [
+      "Disability-Inclusive Opportunities",
+      "Women in Tech Initiatives",
+      "African Diaspora Talent Programs",
+      "LGBTQ+ Friendly Workplace Badges"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.437604Z",
+    "application_link": "https://careers.microsoft.com/us/en/job/adc-accra-software-engineer",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "careers_602",
+    "job_title": "Senior Backend Engineer (Django & PostgreSQL)",
+    "company_name": "ExpressPay Ghana",
+    "company_website": "https://expresspaygh.com",
+    "location": "Accra, Ghana",
+    "work_location_type": "hybrid",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-03",
+    "source": "company_careers",
+    "source_url": "https://expresspaygh.com/careers/backend-engineer",
+    "job_description_raw": "ExpressPay is hiring a Senior Backend Engineer to maintain payment gateway microservices built with Python, Django, Redis, PostgreSQL, and AWS. We encourage female software engineers and diverse talent across Ghana to apply.",
+    "salary_range": {
+      "min": 20000,
+      "max": 32000,
+      "currency": "GHS",
+      "type": "monthly"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "Python",
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "AWS",
+      "REST API",
+      "Docker"
+    ],
+    "required_experience_years": {
+      "min": 4,
+      "preferred": 6
+    },
+    "required_education": [
+      "Bachelor in Computer Science"
+    ],
+    "preferred_qualifications": [
+      "AWS Certification"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "Python",
+      "SQL",
+      "Bash"
+    ],
+    "tools_frameworks": [
+      "Django",
+      "PostgreSQL",
+      "Redis",
+      "AWS",
+      "Docker"
+    ],
+    "company_size": "smb",
+    "company_industry": "Fintech",
+    "hiring_urgency": "urgent",
+    "visa_sponsorship": "no",
+    "work_visa_support": "Ghana resident required",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Competitive Salary",
+      "Medical Cover",
+      "Performance Bonus"
+    ],
+    "diversity_badges": [
+      "Women in Tech Initiatives",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.437646Z",
+    "application_link": "https://expresspaygh.com/careers/backend-engineer",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_gh_101",
+    "job_title": "Senior Full-Stack Engineer (Next.js & Python)",
+    "company_name": "AfroTech Global Systems",
+    "company_website": "https://afrotechglobal.com",
+    "location": "Accra, Ghana (Remote)",
+    "work_location_type": "remote_only",
+    "country": "Ghana",
+    "posting_date": "2026-08-16",
+    "application_deadline": "2026-09-10",
+    "source": "remoteok",
+    "source_url": "https://remoteok.com/jobs/senior-fullstack-engineer-afrotech",
+    "job_description_raw": "We are seeking a Senior Full-Stack Engineer based in Ghana or West Africa to design scalable web applications using Next.js, React, Python, FastAPI, and AWS. We actively encourage applications from underrepresented minorities, women in tech, and African diaspora talent.",
+    "salary_range": {
+      "min": 45000,
+      "max": 75000,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "Next.js",
+      "React",
+      "FastAPI",
+      "AWS",
+      "Docker"
+    ],
+    "required_experience_years": {
+      "min": 4,
+      "preferred": 6
+    },
+    "required_education": [
+      "Bachelor in Computer Science"
+    ],
+    "preferred_qualifications": [
+      "AWS Certified Solutions Architect",
+      "Experience with GraphQL"
+    ],
+    "certifications_required": [
+      "AWS Certified"
+    ],
+    "programming_languages": [
+      "Python",
+      "JavaScript",
+      "TypeScript",
+      "SQL"
+    ],
+    "tools_frameworks": [
+      "Next.js",
+      "React",
+      "FastAPI",
+      "Docker",
+      "AWS",
+      "PostgreSQL"
+    ],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "urgent",
+    "visa_sponsorship": "yes",
+    "work_visa_support": "Full international visa sponsorship and relocation available for top performing engineers",
+    "relocation_assistance": "yes",
+    "benefits_listed": [
+      "USD Salary",
+      "Private Medical Insurance",
+      "Stock Options",
+      "Home Office Allowance"
+    ],
+    "diversity_badges": [
+      "BIPOC / Underrepresented Minorities",
+      "Women in Tech Initiatives",
+      "African Diaspora Talent Programs"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:44:45.904881Z",
+    "application_link": "https://remoteok.com/jobs/senior-fullstack-engineer-afrotech",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136812",
+    "job_title": "Cabin Cleaning Agent",
+    "company_name": "Menzies Aviation",
+    "company_website": "https://menziesaviation.com",
+    "location": "Hounslow, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-15",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
+    "job_description_raw": "<strong>Overview<br><br></strong>People. Passion. Pride. This is what has driven our teams since 1833.<br><br>Since that time, we have developed to become a critical partner in the global aviation industry, delivering time-critical logistics services at 350 locations in more than 65 countries, across six continents.<br><br>But at the heart of our business is our people.<br><br><strong>Role Purpose<br><br></strong>Responsible for the turnaround cleaning of multiple airlines at Heathrow Airport in all terminals. Working as part of a large team rostered to restore the cleanliness of the aircraft cabin to the highest standard, in the allotted ground time provided. Working on a shift rotational basis with flexibility, shifts are 4 days on and 2 days off consisting of both early and late shifts.<br><br><strong>What You Will Be Doing<br><br></strong><ul><li>Ability to use cleaning equipment and clean aircraft efficiently and to the required standard of the airline.</li><li>Work as part of a team with good time keeping, taking instruction and feedback to complete the aircraft cabin cleaning.</li><li>To be able to follow training instruction and complete online e-learning and company communication via various IT systems.</li><li>Be physical fit in line with the climbing of aircraft steps, getting in and out vehicles and lifting some light equipment, using cleaning equipment and cleaning chemicals.</li><li>Working within aircraft cabin and some confined areas.<br><br><br></li></ul>Would you like to see more detail on the accountabilities of the role? Please see the attached job description for further information<br><br><strong>Safety, Security, Wellbeing and Compliance:<br><br></strong>You will have a responsibility and duty whilst at work to take reasonable care of the health, safety and wellbeing of yourself and others in accordance with provided information, training, and workplace health and safety rules or procedures. The company is committed to providing a safe working environment for all staff members. In all areas of our business there is a potential risk to the health, safety and welfare to everyone on our sites through the misuse of alcohol and drugs. As such the Company prohibits such misuse and carries out regular testing to enforce our Substance Misuse Policy.<br><br>Please see the attached job description for further details on safety, security, wellbeing &amp; compliance.<br><br><strong>What We Are Looking For<br><br></strong><ul><li>Motivated and enthusiastic to work hard and achieve high standards.</li><li>Physically fit. (For drivers, undergo a medical).</li><li>Ability to read and write and have a good understanding of English and IT literate. (E-learning to complete)</li><li>Ability to work to time deadlines and follow instructions and training.</li><li>Be able to work as part of a team.<br><br><br></li></ul><strong>Diversity<br><br></strong>Menzies Aviation are a committed equal opportunity employer and encourage applications for suitably qualified and eligible applicants regardless of sex, race, disability, age, sexual orientation, gender reassignment, religion or belief, marital status, pregnancy, and maternity. We strive to create an inclusive working environment, where the different knowledge, perspectives, experiences, and approaches of our global workforce are represented. Where everyone feels valued and can reach their full potential.<br><br>Please be aware that as part of our recruitment process, we may look to use a variety of resourcing tools to help us understand your skills and experience in relation to the role. Please feel free to contact to recruiter below, if there are any reasonable adjustments to our process that you would like us to consider.<br><br>As part of our recruitment process, we will always consider how candidates fit with our values which you can learn more about here.<br><br><strong>Application Instructions<br><br></strong>Is this role ticking all the boxes for you? If so, please click apply now!<br/><br/>Please mention the word **DOTE** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.200082Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136800",
+    "job_title": "Sandblaster",
+    "company_name": "Tiger Calcium Services Inc.",
+    "company_website": "https://tigercalciumservicesinc..com",
+    "location": "Slave Lake, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-15",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-sandblaster-tiger-calcium-services-inc-1136800",
+    "job_description_raw": "<strong>Sandblaster / Painter <br><br></strong>The Sandblaster/Painter is responsible for preparing parts and equipment for painting and protective coating, including performing sandblasting and surface preparation to ensure quality finishes. This position reports to the Production Manager and is based at our Mitsue Industrial Site in Slave Lake, Alberta.<br><br>As part of our hiring process, successful candidates will be required to complete a pre-employment screening, which will include drug and alcohol testing as well as a background check.<br><br>Proudly Canadian, Tiger Calcium Services Inc. is one of North America\u00e2\u0080\u0099s leading producers of calcium chloride. For over 45 years, we have set the industry standard for quality-unmatched in both breadth and scope. We manufacture, supply, transport, and apply premium calcium chloride products for anti-icing, deicing, and dust control. Tiger Calcium Services Inc. is proud to operate under one umbrella with other iconic salt companies including Morton Salt, Windsor Salt, and more.<br><br><strong>What\u00e2\u0080\u0099s In It For You<br><br></strong><ul><li> Competitive wages </li><li> Annual performance bonus <br><br></li></ul><strong>What Will You Do In This Role<br><br></strong><ul><li> In addition to company policies, comply with all policies, procedures and regulations related to health, safety and the environment. </li><li> Perform daily hazard assessments and equipment checks. </li><li> Order and track required material and supplies to maintain an effective, functional body shop. </li><li> To minimize waste, review items to be repaired, prepare or review repair cost estimates, and plan the work to be performed. </li><li> Sand body areas to be painted. Prime and paint repaired surface. </li><li> Clean and maintain all body shop equipment to keep it in good reliable working condition. </li><li> Accurately completes all required paperwork and permits. </li><li> Sandblast parts and equipment to required specifications. </li><li> Communicate any deficiencies and safety concerns to the Production Manager. <br><br></li></ul><strong>What We Are Looking For<br><br></strong><ul><li>Journeyman certification for Painting is preferred; however, we will consider candidates with significant related experience and a demonstrated track record in the trade.</li><li>Minimum one-year experience in an industrial sandblasting environment.</li><li>Valid Driver\u00e2\u0080\u0099s license.</li><li>Experience on a skid steer or wheel loader would be an asset. </li><li>Forklift and Aerial Work Platform certification would be considered an asset.</li><li>Familiar with a variety of industrial coatings.</li><li>Able to follow written and verbal directions.</li><li>Operating knowledge of all related tools and equipment with the ability to operate in a safe and effective manner. </li><li>Possess a strong attention to detail with outstanding organizational skills.</li><li>Self-motivated with the ability to work with minimal supervision.</li><li>Mechanical ability would be considered an asset.<br><br></li></ul><strong>Physical Requirements<br><br></strong><ul><li>Able To Lift and Carry 50 lbs.</li><li>Work from height.</li><li>Climbing, crouching, stooping, and working in awkward positions required.<br><br></li></ul><strong>Working Conditions<br><br></strong><ul><li>Must be able to wear all required and specialized PPE, including respirators and blaster hood.</li><li>Working inside and outside in various weather conditions.</li><li>Work involves exposure to dust and fumes.</li><li>Working from heights, aerial platform or scaffolding.<br><br></li></ul><strong>How To Apply<br><br></strong>Navigate to Tiger\u00e2\u0080\u0099s website: www.tigercalcium.com\\About\\Careers to complete the online application process.<br/><br/>Please mention the word **CORNERSTONE** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 45,
+      "preferred": 45
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.220674Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-sandblaster-tiger-calcium-services-inc-1136800",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136793",
+    "job_title": "Current openings",
+    "company_name": "Mobiux Labs UK Limited ( Formerly Vida Technologies Ltd)",
+    "company_website": "https://mobiuxlabsuklimited(formerlyvidatechnologiesltd).com",
+    "location": "Wideopen, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-15",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+    "job_description_raw": "403 / Security check<br><br>Before you continue, please verify your request.<br><br>We need to confirm that this request is coming from a real browser before we send you to Wellfound. Complete the security check below to continue.<br><br>Verification successful. Waiting for wellfound.com to respond<br><br>Enable JavaScript and cookies to continue<br><br>Cloudflare Ray ID a2b81e2c28c2ebe7<br><br>Back to Wellfound Contact Support<br/><br/>Please mention the word **COMPLEMENTS** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.224828Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-current-openings-mobiux-labs-uk-limited-formerly-vida-technologies-ltd-1136793",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136701",
+    "job_title": "QA Tester Entry Level",
+    "company_name": "Ace IT Careers",
+    "company_website": "https://aceitcareers.com",
+    "location": "Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-15",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+    "job_description_raw": "Looking to start or restart your career in Software Quality Assurance?Ace IT Careers is reviewing candidates for QA Tester and QA Analyst opportunities with employers and staffing partners across the United States.This opportunity may be suitable for r...<br/><br/>Please mention the word **SMOOTHES** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "R"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "R"
+    ],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.228418Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-qa-tester-entry-level-ace-it-careers-1136701",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136792",
+    "job_title": "Why Your First Weeks a New Role Shape Everything That Follows",
+    "company_name": "Decode-X",
+    "company_website": "https://decode-x.com",
+    "location": "Evansville, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-why-your-first-weeks-a-new-role-shape-everything-that-follows-decode-x-1136792",
+    "job_description_raw": "The UAE\u00e2\u0080\u0099s rail expansion covers active construction, passenger and freight operations, and major projects that are still moving through procurement. For jobseekers, the useful lesson is not simply that large projects can create employment. It is that different stages of a rail project require different skills, employers, and application<br/><br/>Please mention the word **OUTPERFORMING** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.232879Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-why-your-first-weeks-a-new-role-shape-everything-that-follows-decode-x-1136792",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136826",
+    "job_title": "Store Manager White House Black Market",
+    "company_name": "Chico's FAS, Inc.",
+    "company_website": "https://chico'sfas,inc..com",
+    "location": "Ponce, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-store-manager-white-house-black-market-chicos-fas-inc-1136826",
+    "job_description_raw": "<strong>Position Objective<br><br></strong>This position creates, engages, and welcomes an environment, that cultivates an inclusive culture that provides equitable opportunities and drives associate and customer engagement. This role directs activities to achieve store goals including customer experience, talent management, financial objectives, operational controls, asset protection, safety, and merchandise presentation.<br><br><strong>Functional Responsibilities<br><br></strong><ul><li> Understands, models, and ensures Associate commitment to Brand culture, policies and procedures and holds Associates responsible for their actions.</li><li> Recruits, attracts, selects, hires, retains, and develops talent. Proactively fills positions with qualified talent; creates and maintains a viable succession plan by developing internal bench strength through observation, thoughtful questions, and development.</li><li> Partners with Design and Merchandising leaders through the Product Life Cycle (PLC) process and development of the season related to looks.</li><li> Leads merchandising activities resulting in healthy product turnover and gross margin.</li><li> Continuously ensures compliance with company policies and procedures and applicable laws.</li><li> Guarantees selling behaviors are consistent and aligned to Brand expectation through consistent observation and coaching.</li><li> Supports in-store company sponsored events, philanthropy, or other initiatives.</li><li> Analyzes reporting, identifies opportunities, and proactively creates strategies to meet business needs and elevate the customer experience.</li><li> Leads execution of visual merchandising updates and product placement within Brand guidelines and maintains visual expectations as defined by Brand\u00e2\u0080\u0099s visual merchandising standards.</li><li> Clearly articulates brand positioning and educates associates on lifestyle, concepts, and product knowledge.</li><li> Manages controllable expenses through effective scheduling and financial discipline.</li><li> Understands current market trends and can articulate them using Brand interpretations in every customer interaction. Represents Brand by adhering to Brand's dress code guidelines.</li><li> Leads, directs, and drives execution of tasks with a high level of productivity.</li><li> Confirms schedules are written to support business peaks, associate availability, and operational tasks.</li><li> Ensures compliance within operational guidelines, health and safety protocols, Asset Protection policies and practices, other company policies and procedures, and applicable laws always.</li><li> Values individuality and the diverse talents of their team. Leads the team by communicating expectations, providing guidance, delivering feedback, and empowering the team to be their best.<br><br></li></ul><strong>Competencies<br><br></strong><ul><li> Culture: Living the Chico\u00e2\u0080\u0099s FAS Values and Guiding Principles by demonstrating Customer Focus, Instilling Trust, Driving Engagement and Delivering Results with High Performance.</li><li> Decision Quality: Making good and timely decisions that keep the organization moving forward.</li><li> Action Oriented: Taking on new opportunities and tough challenges with a sense of urgency, high energy, and enthusiasm.</li><li> Interpersonal Savvy: Relating openly and comfortably with diverse groups of people.</li><li> Situational Adaptability: Adapting approach and demeanor in real time to match the shifting demands of different situations.<br><br></li></ul><strong>Qualifications<br><br></strong><ul><li> High School Required; Some college or bachelor\u00e2\u0080\u0099s degree preferred</li><li> 18 years old or older</li><li> 5+ years of Supervisory/Management experience in the retail industry preferred with 2 of those years in a Store Manager position</li><li> Proven ability to recruit, select, develop, and retain full store team and hold individuals accountable for performance</li><li> Proven ability to foster team commitment and create a positive, inclusive working environment</li><li> Demonstrated ability to function as a role model, ensuring that the customer remains the top priority.</li><li> Demonstrated ability to organize, delegate, prioritize, meet deadlines, and follow-up on all store activities</li><li> Knowledge of visual standards and techniques, and ability to implement</li><li> Demonstrated strong verbal and written communication skills</li><li> Ability to forecast and analyze business trends act on findings and manage payroll expense to maximize store performance; proven ability to deliver sales results</li><li> Ability take initiative, prioritize, and meet deadlines as assigned with minimal supervision and within designated timeframes</li><li> Ability to work a flexible schedule to meet the needs of the business, including evening, weekend, and holiday shifts</li><li> Requires physical activity which may require lifting (up) to 50 pounds<br><br></li></ul>Chico\u00e2\u0080\u0099s FAS, Inc. is an equal opportunity employer. We do not discriminate on the basis of race, color, religion, marital status, age, national origin, ancestry, physical or mental disability, medical condition, pregnancy, childbirth and related medical conditions, lactation, genetic information, gender, sexual orientation, gender identity or expression, military service, veteran status, or any other category protected under federal, state, or local law.<br/><br/>Please mention the word **AFFABILITY** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 5,
+      "preferred": 18
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.255697Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-store-manager-white-house-black-market-chicos-fas-inc-1136826",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136810",
+    "job_title": "Maintenance Planner",
+    "company_name": "The HEINEKEN Company",
+    "company_website": "https://theheinekencompany.com",
+    "location": "Kingston, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810",
+    "job_description_raw": "<strong>Job Purpose<br><br></strong>We are seeking a Maintenance Planner to join our Engineering Stores team. In this role, you will be responsible for effectively planning, preparing, and scheduling maintenance activities to support equipment reliability, maximize plant availability, and reduce unplanned downtime. You will work closely with the Maintenance, Production, Procurement, and Spare Parts teams to ensure maintenance activities are prioritized, properly resourced, and executed safely and on time.<br><br><strong>Responsibilities:<br><br></strong><ul><li>Plans, prepares, and schedules maintenance work orders to ensure they are completed safely, on time, and in full (OTIF).</li><li>Reviews and prioritizes maintenance work requests based on risk, equipment criticality, and reliability.</li><li>Prepares work orders by defining the required scope, tasks, resources, materials, and tools.</li><li>Schedules maintenance activities considering equipment criticality, planned downtime windows, and availability of parts and services.</li><li>Coordinates with the Spare Parts Coordinator, Storekeeper, Procurement, and Maintenance Execution teams to ensure required materials and tools are available.</li><li>Manages maintenance task lists and ensures required materials are requested in line with inventory and supply processes.</li><li>Ensures accurate and timely registration and management of maintenance information within the CMMS.</li><li>Supports preventive maintenance planning and contributes to the preparation of maintenance budgets.</li><li>Supports TPM and continuous improvement activities to improve maintenance effectiveness, reliability, and plant availability.</li><li>Works closely with maintenance stakeholders to improve planning efficiency, reduce downtime, and support reliable execution of maintenance activities.<br><br></li></ul><strong>Qualifications:<br><br></strong><ul><li>Bachelor's degree in Supply Chain Management or a related field.<br><br></li></ul><strong>Knowledge &amp; Experience:<br><br></strong><ul><li>2\u00e2\u0080\u00935 years of experience in maintenance planning, operations, supply chain, or a reliability-focused role.</li><li>Experience in maintenance planning, preparation, and scheduling.</li><li>Good understanding of supply and inventory management processes.</li><li>Experience working with a CMMS and/or maintenance planning and scheduling software.</li><li>Strong planning and organizational skills, with the ability to plan ahead and manage multiple priorities.</li><li>Good reporting, data handling, and basic computer skills.</li><li>Understanding of workflow management and maintenance work prioritization.</li><li>Ability to work effectively with cross-functional teams, including Maintenance, Production, Procurement, and Supply Chain.</li><li>Experience with TPM, reliability, or continuous improvement practices is an asset.<br><br></li></ul><strong>Application Closing Date: August 28, 2026</strong><br/><br/>Please mention the word **UNABASHEDLY** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 5,
+      "preferred": 5
+    },
+    "required_education": [
+      "Bachelor"
+    ],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.269337Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-maintenance-planner-the-heineken-company-1136810",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136719",
+    "job_title": "Shop Assistant Cammeray",
+    "company_name": "Harris Farm Markets",
+    "company_website": "https://harrisfarmmarkets.com",
+    "location": "Cammeray, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719",
+    "job_description_raw": "<strong>About Us<br><br></strong>Join a growing fresh food retail business known for delivering quality, value and an exceptional customer experience. At Harris Farm Markets, everything we do is driven by our purpose for the Greater Goodness, for our customers, our community, our planet, and each other.<br><br>As a proud family owned Australian business, you\u00e2\u0080\u0099ll be part of something bigger where your work truly matters.<br><br><strong>Here, You Will<br><br></strong><ul><li>Do meaningful work that contributes to something bigger</li><li>Grow your career in more directions than one</li><li>Build real connections with people who feel like family</li><li>Be valued for who you are, every day<br><br></li></ul>We reward our people fairly and offer benefits that genuinely matter because great people deserve great things.<br><br><strong>We are currently searching for our next superstar Shop Assistant!<br><br></strong>You'll help customers find what they need, keep the store looking fresh and abundant, and be part of a team that loves good food and good people. No experience needed, we'll teach you everything. What you bring is a friendly attitude, pride in your work, and a genuine love of great fresh food. Many of our Store Managers started exactly here!<br><br><strong>Responsibilities<br><br></strong><ul><li>Filling and rotating stock to maintain full, fresh, and appealing displays</li><li>Keeping the Back of House organised, clean, and well-managed</li><li>Monitoring stock quality, dates, and rotation (FIFO)</li><li>Maintaining excellent shelf management for accurate customer convenience</li><li>Providing helpful, on-the-floor customer service</li><li>Maintaining food safety, hygiene, and workplace safety standards</li><li>Supporting the team to ensure smooth daily operations<br><br></li></ul><strong>About You<br><br></strong>We are looking for someone who loves food, with previous experience working in a fresh food retail business. Additionally, we are looking for someone with:<br><br><ul><li>Strong attention to detail and organisation skills</li><li>Physically capable of manual handling and being on your feet</li><li>A team player with a strong work ethic</li><li>Flexible availability across a 7-day roster AM &amp; PM shifts<br><br></li></ul><strong>Why you should apply<br><br></strong><ul><li>If you like variety and love to be physically active</li><li>Work with a highly successful business</li><li>Value a career path<br><br></li></ul>At Harris Farm, we welcome everyone, from all walks of life and all abilities. If you think you could be a great Harris Farmer, but don't necessarily meet every single point on the above requirements, please don\u00e2\u0080\u0099t be shy - get in touch!<br/><br/>Please mention the word **MIGHTY** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.281912Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-shop-assistant-cammeray-harris-farm-markets-1136719",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136687",
+    "job_title": "Brand Protection & Marketplace Compliance Analyst",
+    "company_name": "MultiplyMii",
+    "company_website": "https://multiplymii.com",
+    "location": "",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
+    "job_description_raw": "<p style=\"min-height:1.5em\"><strong>Position Type</strong>: Full-time</p><p style=\"min-height:1.5em\"><strong>Location: </strong>Philippines (Remote)</p><p style=\"min-height:1.5em\"><strong>Schedule: </strong>Mon-Fri, EST</p><p style=\"min-height:1.5em\"></p><h2><strong><u>About the Company</u></strong></h2><h3>Our client is a global leader in swimming pool technology, specializing in robotic pool cleaners, pool safety products, water treatment solutions, and related pool equipment for residential and commercial customers. With a strong international presence and a network of distributors, subsidiaries, and partners across multiple markets, our client serves customers worldwide through a variety of sales and distribution channels.</h3><p style=\"min-height:1.5em\"></p><h3><strong><u>About the Role</u></strong></h3><p style=\"min-height:1.5em\">Our client is looking for a Brand Protection &amp; Marketplace Compliance Analyst to monitor online marketplaces and digital channels across North America and Europe. The role focuses on identifying unauthorized sellers, marketplace and distribution violations, misuse of brand assets, and other compliance issues.</p><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\">You will conduct online research, analyze seller and product data, maintain accurate records, and prepare reports that provide actionable insights to the business.</p><p style=\"min-height:1.5em\"></p><h2><strong><u>Responsibilities<br /></u></strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Monitor Amazon, eBay, Walmart, BestBuy, Home Depot, AliExpress, Temu, and other major marketplaces.</p></li><li><p style=\"min-height:1.5em\">Research products and identify new or unauthorized sellers.</p></li><li><p style=\"min-height:1.5em\">Classify sellers and verify their authorization status.</p></li><li><p style=\"min-height:1.5em\">Identify MAP, distribution, territory, and marketplace compliance issues.</p></li><li><p style=\"min-height:1.5em\">Monitor unauthorized use of logos, images, trademarks, and product content.</p></li><li><p style=\"min-height:1.5em\">Collect evidence such as URLs, screenshots, seller information, and product details.</p></li><li><p style=\"min-height:1.5em\">Maintain accurate seller databases and internal records.</p></li><li><p style=\"min-height:1.5em\">Prepare daily reports and monthly Voice of Consumer reports.</p></li><li><p style=\"min-height:1.5em\">Build and maintain dashboards tracking brand-protection metrics.</p></li><li><p style=\"min-height:1.5em\">Identify opportunities to improve research and reporting processes.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong><u>Competencies and Qualifications</u></strong></h2><h2><strong><u><br />Must-Have<br /></u></strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">3+ years of experience in data analysis, online research, e-commerce, compliance, or a related field.</p></li><li><p style=\"min-height:1.5em\">Strong Excel skills, including pivot tables.</p></li><li><p style=\"min-height:1.5em\">Strong research, analytical, and problem-solving skills.</p></li><li><p style=\"min-height:1.5em\">Excellent attention to detail and data accuracy.</p></li><li><p style=\"min-height:1.5em\">Strong written English and reporting skills.</p></li><li><p style=\"min-height:1.5em\">Ability to work independently and follow SOPs.</p></li><li><p style=\"min-height:1.5em\">Familiarity with Amazon and other e-commerce marketplaces.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong><u>Nice-to-Have</u><br /></strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Brand protection or marketplace compliance experience.</p></li><li><p style=\"min-height:1.5em\">Experience with PROWL, Helium 10, Salesforce, or similar tools.</p></li><li><p style=\"min-height:1.5em\">Knowledge of MAP, distribution, or channel compliance.</p></li><li><p style=\"min-height:1.5em\">Experience with dashboards and reporting.</p></li><li><p style=\"min-height:1.5em\">Experience using AI research and translation tools.</p></li></ul><p style=\"min-height:1.5em\"></p><p style=\"min-height:1.5em\"><strong><u>Key Qualities</u><br /></strong></p><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Detail-oriented</p></li><li><p style=\"min-height:1.5em\">Analytical</p></li><li><p style=\"min-height:1.5em\">Investigative</p></li><li><p style=\"min-height:1.5em\">Highly organized<br /></p></li></ul><h2><strong><u>What We Offer</u></strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">100% Remote Work \u00e2\u0080\u0093 Work from anywhere in the Philippines.</p></li><li><p style=\"min-height:1.5em\">Career Growth Opportunities \u00e2\u0080\u0093 Gain hands-on experience, and continuous learning.</p></li><li><p style=\"min-height:1.5em\">Collaborative &amp; Innovative Team \u00e2\u0080\u0093 Work alongside skilled professionals who value excellence.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong><u>Application Process</u></strong></h2><p style=\"min-height:1.5em\">We understand that searching for a new job can be challenging, and we\u00e2\u0080\u0099re here to support you every step of the way. Our goal is to make the process as transparent and respectful as possible.</p><p style=\"min-height:1.5em\">The interview process includes a Recruiter Interview, Client Interview, and Assessment. As part of the process, candidates complete a hands-on task during the technical interview. Throughout each stage, we keep you informed and provide feedback as quickly as possible, ensuring you feel valued and supported throughout your journey with us.</p><br/><br/>Please mention the word **BLOOM** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 3,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.310359Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-brand-protection-marketplace-compliance-analyst-multiplymii-1136687",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136686",
+    "job_title": "Test Job",
+    "company_name": "Link Snacks",
+    "company_website": "https://linksnacks.com",
+    "location": "Minneapolis, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-test-job-link-snacks-1136686",
+    "job_description_raw": "<strong>Job Description<br><br></strong><p>Test Job <br><br><br><br></p><strong>Qualifications<br><br></strong><p>Test job<br><br><br><br></p><strong>Additional Information<br><br></strong><p>All your information will be kept confidential according to EEO guidelines.<br><br></p><br/><br/>Please mention the word **HEROS** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.316877Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-test-job-link-snacks-1136686",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136677",
+    "job_title": "Infanteer",
+    "company_name": "Canadian Armed Forces | Forces arm\u00c3\u00a9es canadiennes",
+    "company_website": "https://canadianarmedforces|forcesarm\u00e3\u00a9escanadiennes.com",
+    "location": "Moncton, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-infanteer-canadian-armed-forces-forces-armees-canadiennes-1136677",
+    "job_description_raw": "<strong>Overview<br><br></strong>As a member of the military, Infantry Soldiers are the Army\u00e2\u0080\u0099s primary combat fighters and are responsible for closing with and destroying the enemy. They are the core members of the Combat Arms team, which includes Artillery and Armour Soldiers.<br><br>Infantry Soldiers are capable of operating anywhere in the world in any environment \u00e2\u0080\u0093 Arctic tundra, mountains, jungle or desert \u00e2\u0080\u0093 and in any combination of arms, including airmobile and amphibious operations. The primary duties of Infantry Soldiers are to:<br><br><ul><li>Expertly operate and maintain a wide range of weapons, including rifle, hand-grenades, light, medium and heavy machine-guns, and anti-tank weapons</li><li>Use sophisticated equipment for field communications, navigation and night-vision surveillance</li><li>Inspect and maintain weapon systems, vehicles, survival gear and personal defensive equipment</li><li>Participate in airborne operations</li><li>Operate with support elements such as fighter aircraft, tactical and artillery</li><li>Engage in unarmed combat</li><li>Employ camouflage and concealment, patrol, assault, defence, and escape-and-evasion tactics.<br><br><br></li></ul><strong>Work environment<br><br><br></strong>Infantry Soldiers normally work outdoors. Both in training and on operations they live and work in conditions that would resemble those in the field. Infantry Soldiers will be posted to a battalion in Canada, but there are employment opportunities across Canada and on deployed operations around the world.<br><br>If you chose a career in the Regular Force, upon completion of all required training, you will be assigned to your first base. While there is some flexibility with regards to postings (relocations), accommodations can\u00e2\u0080\u0099t always be made, and therefore, you can likely expect to move at some point in your career. However, if you decide to join the Primary Reserve Force, you will do so through a specific Reserve unit. Outside of training, your chosen Reserve unit will be your workplace on a part time basis, and you will not be obligated to relocate to a different base. As part of the Primary Reserve Force, you typically work one night per week and some weekends as a minimum with possibilities of full-time employment.<br><br><strong>Entry plans<br><br></strong><ul><li> Direct Entry Options <br><br></li></ul>No previous work experience or career related skills are required. CAF recruiters can help you decide if your personal interests and attributes match the criteria for this occupation.<br><br>The minimum required education to apply for this occupation is the completion of the provincial requirements for Grade 10 or Secondary 4 in Quebec.<br><br>Foreign education may be accepted.<br><br><strong>Training<br><br></strong>The first stage of training is the Basic Military Qualification course, or Basic Training, held at the Canadian Forces Leadership and Recruit School in Saint-Jean-sur-Richelieu, Quebec. This training provides the basic core skills and knowledge common to all trades. A goal of this course is to ensure that all recruits maintain the Canadian Armed Forces (CAF) physical fitness standard; as a result, the training is physically demanding.<br><br>Infantry Soldiers attend one of three Military Training Centres: The Royal Canadian Regiment in Meaford, Ontario; Princess Patricia\u00e2\u0080\u0099s Canadian Light Infantry in Wainwright, Alberta; and the Royal 22 e R\u00c3\u00a9giment in Valcartier, Quebec. The training takes 17 weeks and includes the following topics:<br><br><ul><li>Use and care of personal and section-level weapons, including rifles, machine guns and anti-tank weapons</li><li>Field-craft, including personal hygiene and meal preparation, camouflage, sentry duties, signalling, selecting firing positions, tactical movements and lines of advance</li><li>Construction of field defences, such as trenches and roadblocks, and laying and marking of minefields</li><li>Navigation by day and by night</li><li>Patrolling operations</li><li>Infantry section and platoon tactics, including offensive, defensive and transitional operations<br><br></li></ul>Infantry Soldiers may be offered the opportunity to develop specialized skills through formal courses and on-the-job training, including:<br><br><ul><li>Basic Parachutist</li><li>Parachute Jumpmaster</li><li>Para Instructor</li><li>Mountain Warfare</li><li>Instructional Techniques</li><li>First Aid Instructor</li><li>Rappelmaster</li><li>Nuclear, Biological and Chemical Defence Instructor</li><li>Urban Operations</li><li>Close Quarter Combat Instructor<br><br></li></ul>As they progress in their career, Infantry Soldiers who demonstrate the required ability and potential will be offered advanced training. Available courses include:<br><br><ul><li>Instructional Techniques</li><li>Primary Army Leadership</li><li>Infantry Section Commander</li><li>Infantry Platoon Second in Command</li><li>Infantry Company Sergeant-Major</li><li>Communicator</li><li>Reconnaissance Patrolling</li><li>Anti-Armour Gunner</li><li>Sniper</li><li>Machinegunner (Heavy and General Purpose)</li><li>Small Arms Coach</li><li>25mm Gunner and light armoured vehicle Crew Commander</li><li>Winter (Arctic) and Jungle Operations</li><li>Patrol Pathfinder</li><li>Tactical Intelligence Operator<br><br></li></ul><strong>Part time options<br><br></strong>This position is available for part-time employment with the Primary Reserve at certain locations across Canada. Reserve Force members usually serve part time at a Unit in their community, and may serve while going to school or working at a civilian job. They are paid during their training. They are not posted or required to do a military move. However, they can volunteer to move to another base. They may also volunteer for deployment on a military mission within or outside Canada.<br><br>Infantry Soldiers serve with the Canadian Army. They are the Army\u00e2\u0080\u0099s primary combat fighters, are responsible for engaging the enemy and are the core members of the Combat Arms team, which includes Artillery and Armoured Soldiers. When they are employed on a part-time or casual full-time basis they usually serve at a Forces Infantry unit located within Canada.<br><br>Find a Recruiting Centre<br><br>Reserve Force members are trained to the same level as their Regular Force counterparts. They usually begin training with their home unit to ensure that they meet the required basic professional military standards. Following basic training, Infantry Soldiers attend one of three CAF training centres for 7 weeks of Infantry training.<br><br>Reserve Force members usually serve part-time with their home unit for scheduled evenings and weekends, although they may also serve in full-time positions at some units for fixed terms, depending on the type of work that they do. They are paid 92.8% of Regular Force rates of pay, receive a reasonable benefits package and may qualify to contribute to a pension plan.<br><br><strong>Related Careers<br><br></strong>Combat Engineer<br><br>Priority Application Processing<br><br>Gunner<br><br>Priority Application Processing<br><br>Armour Soldier<br><br>Priority Application Processing<br/><br/>Please mention the word **SUPPORTIVE** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 5,
+      "preferred": 8
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.365958Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-infanteer-canadian-armed-forces-forces-armees-canadiennes-1136677",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136678",
+    "job_title": "Engineer Officer",
+    "company_name": "Canadian Armed Forces | Forces arm\u00c3\u00a9es canadiennes",
+    "company_website": "https://canadianarmedforces|forcesarm\u00e3\u00a9escanadiennes.com",
+    "location": "Moncton, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-engineer-officer-canadian-armed-forces-forces-armees-canadiennes-1136678",
+    "job_description_raw": "<strong>Overview<br><br></strong>As a member of the military, Engineer Officers help the army live, move and fight. They are members of the Corps of Royal Canadian Engineers. Together with the Armour, Infantry and Artillery, Engineer Officers are an integral part of the Combat Arms.<br><br>The primary responsibility of Engineer Officers is combat readiness. Either working within Canada during an emergency or on international missions, Engineer Officers are responsible for:<br><br><ul><li>Constructing habitable camps</li><li>Breaching minefields</li><li>Using explosives to destroy a road or bridge</li><li>Constructing a bridge or ferry</li><li>Building a combat road</li><li>Disposing explosives</li><li>Constructing obstacles<br><br><br></li></ul><strong>Work environment<br><br><br></strong>Engineer Officers are employed at bases and stations across Canada and on deployed operations around the world. They experience the unique adventures and challenges that come with working in different environments and various terrains \u00e2\u0080\u0093 Arctic tundra, tropical jungle, desert, mountains, urban complex \u00e2\u0080\u0093 and various climates.<br><br>If you chose a career in the Regular Force, upon completion of all required training, you will be assigned to your first base. While there is some flexibility with regards to postings (relocations), accommodations can\u00e2\u0080\u0099t always be made, and therefore, you can likely expect to move at some point in your career. However, if you decide to join the Primary Reserve Force, you will do so through a specific Reserve unit. Outside of training, your chosen Reserve unit will be your workplace on a part time basis, and you will not be obligated to relocate to a different base. As part of the Primary Reserve Force, you typically work one night per week and some weekends as a minimum with possibilities of full-time employment.<br><br><strong>Entry plans<br><br></strong><ul><li> Direct Entry Options </li><li> Paid Education Options <br><br></li></ul>If you already have a university degree, the Forces will decide if your academic program matches the criteria for this job and may place you directly into the required on-the-job training program following basic training. Basic training and military officer qualification training are required before being assigned.<br><br>Regular Officer Training Plan<br><br>Due to the requirement for CAF officer to obtain a university degree, the CAF will pay successful recruits to complete a bachelor degree program in the Royal Military College System. Recruits will receive full-time salary including medical and dental care, as well as vacation time with full pay in exchange for working in the CAF for a period of time. Typically, candidates enter the Canadian Military College System as an Officer Cadet where they study subjects relevant to both their military and academic career. In rare instances, based on the needs of the CAF, candidates may be approved attend another Canadian University. A determination will be made on a case by case basis. If you are applying for this program, you must apply to the CAF and it is recommended to apply to other Canadian universities of your choice should you not be accepted for ROTP.<br><br><strong>Training<br><br></strong>After enrolment, you start basic officer training at the Canadian Forces Leadership and Recruit School in Saint-Jean-sur-Richelieu, Quebec, for 12 weeks. Topics covered include general military knowledge, the principles of leadership, regulations and customs of the Canadian Armed Forces (CAF), basic weapons handling, and first aid. Opportunities will also be provided to apply such newly acquired military skills in training exercises involving force protection, field training, navigation and leadership. A rigorous physical fitness program is also a vital part of basic training. Basic officer training is provided in English or French and successful completion is a prerequisite for further training.<br><br>Following basic officer training, official second language training may be offered to you. Training could take from two to nine months to complete depending on your ability in your second language.<br><br><strong>Common army phase<br><br></strong>After basic training, you will go to the Infantry School at the Combat Training Centre in Gagetown, New Brunswick. You will build upon the leadership training you received in basic officer training in addition to learning the skills required of all Combat Arms Soldiers, including more advanced weapons-handling, field-craft, and section-level tactics.<br><br>Engineer Officers attend the Canadian Forces School of Military Engineering in Gagetown, New Brunswick. For the first two and a half months, training focuses on basic combat engineering skills and includes subjects such as:<br><br><ul><li>Basic demolitions</li><li>Mine warfare</li><li>Obstacle construction</li><li>Field fortifications</li><li>Dismounted infantry tactics at the platoon level<br><br></li></ul>It ends with a three-week field deployment where the Engineer Officer\u00e2\u0080\u0099s ability to lead a Troop is assessed. The final nine months of training concentrates on reconnaissance, planning, and Troop-level combat engineer tasks. Subjects included are:<br><br><ul><li>Bridge building</li><li>Minefield construction</li><li>Booby-trap clearance</li><li>Route denial</li><li>Bridge demolition</li><li>Combat road repair and construction</li><li>Defensive works</li><li>Timber and rope field machines</li><li>Destruction of battlefield munitions</li><li>Construction of temporary camps</li><li>Breaching various obstacles in the face of the enemy<br><br></li></ul>At the end of the last phase, during a comprehensive four-week field deployment, the skills acquired are assessed.<br><br>Engineer Officers may be offered the opportunity to develop specialized skills through formal courses and on-the-job training, including after the first tour of duty with a first line unit, they may choose to specialize in one of the following areas:<br><br><ul><li>Combat diving</li><li>Counter explosive threat</li><li>Mapping and geodesic support to joint operations</li><li>Infrastructure engineering to both garrison and deployed installations</li><li>Technical engineering to support the procurement and management of equipment<br><br></li></ul><strong>Part time options<br><br></strong>This position is available for part-time employment with the Primary Reserve at certain locations across Canada. Reserve Force members usually serve part time at an Army Base or armoury in their community, and may serve while going to school or working at a civilian job. They are paid during their training. They are not posted or required to do a military move. However, they can volunteer to move to another base. They may also volunteer for deployment on a military mission within or outside Canada.<br><br>Engineer Officers serve with the Canadian Army. Their primary responsibility is combat readiness \u00e2\u0080\u0093 to help the army live, move and fight. Together with the Armour, Infantry and Artillery, Engineer Officers are an integral part of the Combat Arms team. When employed on a part-time or casual full-time basis they usually serve with Canadian Army units at locations within Canada.<br><br>Find a Recruiting Centre<br><br>Reserve Force members are trained to the same level as their Regular Force counterparts. They usually begin training with their home unit to ensure that they meet the required basic professional military standards.<br><br>After completing basic officer training, Engineer Officers attend approximately three months of specialized instruction at the Canadian Forces School of Military Engineering in Gagetown, New Brunswick, where they earn their Engineer Officer qualification.<br><br>Reserve Force members usually serve part-time with their home unit for scheduled evenings and weekends, although they may also serve in full-time positions at some units for fixed terms, depending on the type of work that they do. They are paid 92.8% of Regular Force rates of pay, receive a reasonable benefits package and may qualify to contribute to a pension plan.<br><br><strong>Related Careers<br><br></strong>Armour Officer<br><br>Infantry Officer<br><br>Construction Engineering Officer<br/><br/>Please mention the word **FAIRLY** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "Go"
+    ],
+    "required_experience_years": {
+      "min": 5,
+      "preferred": 8
+    },
+    "required_education": [
+      "Bachelor"
+    ],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "Go"
+    ],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.398142Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-engineer-officer-canadian-armed-forces-forces-armees-canadiennes-1136678",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136670",
+    "job_title": "Engineering Manager Thailand",
+    "company_name": "Bjak ",
+    "company_website": "https://bjak.com",
+    "location": "Bangkok",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+    "job_description_raw": "<h2><strong>About KIRA</strong></h2><p style=\"min-height:1.5em\">Our mission is to make money smart, reliable and within reach for everyone.</p><p style=\"min-height:1.5em\">In 2019, we built the first mobile-first, insurance platform, enabling insurance to be accessible online by millions in the region. Today, it's the leading insurance platform in Southeast Asia.</p><p style=\"min-height:1.5em\">Today, we are expanding ways to help people in Asia and it includes spending, saving, investing, exchanging, travelling, and more. Our objective is to build tools that will help people get more from their money and at ease and self reliance, become an expert. We believe AI will help us achieve this in our generation.</p><p style=\"min-height:1.5em\">We are looking for the most talented and driven people we can find. We are looking for people who work for their passion, not counting hours. Who loves building great next-generation products, not status quo. Who cares about redefining how everyone around us can get the best financial applications, not for an exclusive few.</p><p style=\"min-height:1.5em\">We have teams working around the world, with over 20 nationalities and growing from our offices and remotely. Join us and build a better future</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00c2\u00a0</div><h2><strong>The Role</strong></h2><p style=\"min-height:1.5em\">We are looking for an <strong>Engineering Manager</strong> to lead a high-performing engineering team building and scaling products used by millions of users across the region.  </p><p style=\"min-height:1.5em\">This role is for a strong technical leader who can lead engineers, make sound architecture and engineering decisions, and drive products and systems from idea to production. You will be responsible for both the quality of the engineering team and the quality and speed of what the team ships.  </p><p style=\"min-height:1.5em\">You should be comfortable operating across people, product and technology \u00e2\u0080\u0094 setting a high engineering bar while keeping the team focused on delivering real customer and business outcomes.</p><p style=\"min-height:1.5em\"></p><h2><strong>What You'll Own</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Lead and manage a team of engineers across frontend, backend and full stack development.</p></li><li><p style=\"min-height:1.5em\">Own engineering delivery for major product areas, ensuring the team ships quickly without compromising reliability and technical quality.</p></li><li><p style=\"min-height:1.5em\">Work closely with product, design, mobile, backend and AI teams to turn ambiguous product problems into clear technical execution.</p></li><li><p style=\"min-height:1.5em\">Drive technical architecture and engineering decisions across APIs, databases, integrations, infrastructure and customer-facing systems.</p></li><li><p style=\"min-height:1.5em\">Set engineering standards around code quality, system design, testing, observability, security and production reliability.</p></li><li><p style=\"min-height:1.5em\">Stay close to the technical work through architecture reviews, code reviews, debugging and critical engineering decisions.</p></li><li><p style=\"min-height:1.5em\">Develop engineers through regular feedback, coaching, performance management and clear expectations.</p></li><li><p style=\"min-height:1.5em\">Identify performance gaps early and take ownership of raising the team's engineering and execution bar.</p></li><li><p style=\"min-height:1.5em\">Improve engineering processes, tooling and automation to help the team move faster and operate at scale.</p></li><li><p style=\"min-height:1.5em\">Own production outcomes beyond release: monitor systems, resolve incidents, identify root causes and ensure problems do not repeat.</p></li><li><p style=\"min-height:1.5em\">Build a strong engineering culture focused on ownership, speed, technical excellence and continuous improvement.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>What We're Looking For</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Strong software engineering background with experience building and shipping real production systems.</p></li><li><p style=\"min-height:1.5em\">Experience leading or managing software engineers and owning engineering delivery.</p></li><li><p style=\"min-height:1.5em\">Strong technical depth across backend, frontend, APIs, databases, distributed systems or cloud infrastructure.</p></li><li><p style=\"min-height:1.5em\">Able to make sound architecture and technical trade-offs while balancing speed, scalability and maintainability.</p></li><li><p style=\"min-height:1.5em\">Strong track record of taking products or systems from idea through development, launch and production.</p></li><li><p style=\"min-height:1.5em\">Comfortable reviewing technical designs, challenging engineering decisions and debugging complex production issues.</p></li><li><p style=\"min-height:1.5em\">Strong people leadership with the ability to coach engineers, manage performance and build high-performing teams.</p></li><li><p style=\"min-height:1.5em\">Strong product sense and ability to connect engineering decisions to customer and business outcomes.</p></li><li><p style=\"min-height:1.5em\">Able to work fast with ambiguity, establish priorities and drive teams toward clear outcomes.</p></li><li><p style=\"min-height:1.5em\">Strong ownership mentality \u00e2\u0080\u0094 when something breaks or delivery slips, you take responsibility for getting it back on track.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>This Role Is Not For</strong></h2><ul style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Managers who want to manage people without staying close to the technology.</p></li><li><p style=\"min-height:1.5em\">Engineers who want the title of Engineering Manager but do not want accountability for team performance.</p></li><li><p style=\"min-height:1.5em\">Leaders who need complete specifications before their team can start.</p></li><li><p style=\"min-height:1.5em\">Managers who measure success by meetings, processes or tickets instead of shipped outcomes.</p></li><li><p style=\"min-height:1.5em\">People who avoid difficult technical decisions, performance conversations or production issues.</p></li><li><p style=\"min-height:1.5em\">Candidates who make vague leadership claims without being able to explain what they personally built, led, improved or scaled.</p></li></ul><p style=\"min-height:1.5em\"></p><h2><strong>The Bar</strong></h2><p style=\"min-height:1.5em\">We are looking for engineering leaders with real technology career highlights.</p><p style=\"min-height:1.5em\">A strong highlight is not just managing a large team or working at a famous company. A strong highlight means you personally helped build, ship or scale a serious product, platform or engineering organisation and can clearly explain your contribution.</p><p style=\"min-height:1.5em\"> You should be able to demonstrate both sides of engineering leadership: technical depth and the ability to build a high-performing team that consistently delivers.</p><p style=\"min-height:1.5em\"></p><h2>Location</h2><p style=\"min-height:1.5em\">This is a <strong>remote role</strong>. We hire globally and work across multiple countries and time zones.</p><p style=\"min-height:1.5em\">Candidates should be comfortable working effectively in a distributed, fast-moving international team and collaborating with colleagues across different locations.</p><div style=\"min-height:1.2em;margin-top:0;margin-bottom:0\">\u00c2\u00a0</div><h2>Language</h2><p style=\"min-height:1.5em\">English is our main working language across global teams. Strong English communication is required.</p><p style=\"min-height:1.5em\"></p><h2>Interview Process</h2><p style=\"min-height:1.5em\">Our process is designed to move fast:</p><ol style=\"min-height:1.5em\"><li><p style=\"min-height:1.5em\">Online assessment or practical task</p></li><li><p style=\"min-height:1.5em\">Technical / engineering leadership interview</p></li><li><p style=\"min-height:1.5em\">CEO / final round</p></li></ol><p style=\"min-height:1.5em\">For strong candidates, we aim to complete the process and make an offer within <strong>1 week</strong> from the start of the interview process. Candidates who complete assessments quickly will be prioritized.</p><br/><br/>Please mention the word **AMAZES** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [],
+    "required_experience_years": {
+      "min": 5,
+      "preferred": 8
+    },
+    "required_education": [
+      "Software Engineering"
+    ],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.432645Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-engineering-manager-thailand-bjak-1136670",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "remoteok_1136776",
+    "job_title": "Quality Checker",
+    "company_name": "InTechNative",
+    "company_website": "https://intechnative.com",
+    "location": "Nellore, ",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-08-14",
+    "application_deadline": "2026-09-15",
+    "source": "remoteok",
+    "source_url": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
+    "job_description_raw": "intechnative.com<br><br>Performing security verification<br><br>This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.<br><br>Verification successful. Waiting for intechnative.com to respond<br><br>Enable JavaScript and cookies to continue<br/><br/>Please mention the word **VALIANTLY** and tag RMTAyLjE3Ni43Ny4xNDk= when applying to show you read the job post completely (#RMTAyLjE3Ni43Ny4xNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Experience with remote team communication",
+      "Strong self-management"
+    ],
+    "certifications_required": [],
+    "programming_languages": [
+      "JavaScript"
+    ],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "Remote Work Stipend",
+      "Health Insurance",
+      "Flexible Hours",
+      "Learning Budget"
+    ],
+    "diversity_badges": [
+      "DEI Commitment",
+      "BIPOC / Underrepresented Minorities"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T16:42:42.436167Z",
+    "application_link": "https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  }
+]
