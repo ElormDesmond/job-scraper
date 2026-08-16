@@ -7,6 +7,16 @@ import json
 import logging
 from typing import List, Dict, Any
 
+# Auto load .env if present
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+ENV_FILE = os.path.join(BASE_DIR, ".env")
+if os.path.exists(ENV_FILE):
+    with open(ENV_FILE, 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.strip() and not line.startswith('#') and '=' in line:
+                k, v = line.strip().split('=', 1)
+                os.environ.setdefault(k.strip(), v.strip())
+
 USER_AGENTS = [
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
@@ -23,11 +33,11 @@ class BaseScraper:
     def fetch_url(self, url: str) -> str:
         time.sleep(self.rate_limit_delay * random.uniform(0.8, 1.2))
         
-        # Check if ScraperAPI key is configured for anti-bot / Cloudflare bypass
+        # Read ScraperAPI key from environment variable
         scraper_api_key = os.environ.get("SCRAPER_API_KEY")
         target_url = url
         
-        if scraper_api_key and not ("api.scraperapi.com" in url or "remotive.com" in url or "weworkremotely.com" in url):
+        if scraper_api_key and not ("api.scraperapi.com" in url or "remotive.com" in url or "weworkremotely.com" in url or "dev.to" in url):
             target_url = f"http://api.scraperapi.com?api_key={scraper_api_key}&url={urllib.parse.quote(url)}"
             self.logger.info(f"Routing fetch via ScraperAPI anti-bot proxy for {url}...")
 
@@ -40,7 +50,7 @@ class BaseScraper:
             }
         )
         try:
-            with urllib.request.urlopen(req, timeout=12) as resp:
+            with urllib.request.urlopen(req, timeout=15) as resp:
                 return resp.read().decode('utf-8', errors='ignore')
         except Exception as e:
             self.logger.warning(f"Fetch failed for {url}: {e}")
