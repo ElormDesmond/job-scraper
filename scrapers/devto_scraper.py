@@ -43,6 +43,7 @@ class DevToScraper(BaseScraper):
                         "application_deadline": (datetime.datetime.now() + datetime.timedelta(days=25)).strftime("%Y-%m-%d"),
                         "source": "devto",
                         "source_url": url,
+                        "source_portal_url": "https://dev.to/t/job",
                         "job_description_raw": description,
                         "salary_range": sal["salary_range"],
                         "salary_confidence": sal["salary_confidence"],
@@ -74,7 +75,8 @@ class DevToScraper(BaseScraper):
                     job_dict["company_verified"] = c_verified
                     job_dict["posting_active"] = p_active
 
-                    jobs.append(job_dict)
+                    if p_active == "yes":
+                        jobs.append(job_dict)
             except Exception as e:
                 self.logger.error(f"Error parsing Dev.to jobs: {e}")
 

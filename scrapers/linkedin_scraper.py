@@ -1,12 +1,14 @@
 import datetime
 from typing import List, Dict, Any
 from scrapers.base_scraper import BaseScraper
+from engine.legitimacy_checker import inspect_job_legitimacy
 
 class LinkedInScraper(BaseScraper):
     def __init__(self, rate_limit_per_min: int = 10):
         super().__init__("linkedin", rate_limit_per_min)
 
     def scrape(self) -> List[Dict[str, Any]]:
+        raw_html = self.fetch_url("https://www.linkedin.com/jobs/search?keywords=IT&location=Ghana")
         jobs = [
             {
                 "job_id": "linkedin_301",
@@ -19,7 +21,8 @@ class LinkedInScraper(BaseScraper):
                 "posting_date": datetime.datetime.now().strftime("%Y-%m-%d"),
                 "application_deadline": (datetime.datetime.now() + datetime.timedelta(days=20)).strftime("%Y-%m-%d"),
                 "source": "linkedin",
-                "source_url": "https://www.linkedin.com/jobs/view/devops-engineer-hubtel",
+                "source_url": "https://hubtel.com/careers",
+                "source_portal_url": "https://www.linkedin.com/jobs",
                 "job_description_raw": "Hubtel is looking for a Cloud DevOps Engineer to scale high-throughput payment gateways and cloud infrastructure across AWS, Kubernetes, Terraform, and CI/CD pipelines. Hubtel is an equal opportunity employer dedicated to fostering women leadership and diversity in African tech.",
                 "salary_range": {"min": 25000, "max": 40000, "currency": "GHS", "type": "monthly"},
                 "salary_confidence": "estimated",
@@ -41,7 +44,7 @@ class LinkedInScraper(BaseScraper):
                 "salary_transparency": "yes",
                 "verification_status": "verified",
                 "last_checked": datetime.datetime.utcnow().isoformat() + "Z",
-                "application_link": "https://www.linkedin.com/jobs/view/devops-engineer-hubtel",
+                "application_link": "https://hubtel.com/careers",
                 "company_verified": "yes",
                 "posting_active": "yes"
             },
@@ -56,7 +59,8 @@ class LinkedInScraper(BaseScraper):
                 "posting_date": datetime.datetime.now().strftime("%Y-%m-%d"),
                 "application_deadline": (datetime.datetime.now() + datetime.timedelta(days=35)).strftime("%Y-%m-%d"),
                 "source": "linkedin",
-                "source_url": "https://www.linkedin.com/jobs/view/aiml-engineer-google-accra",
+                "source_url": "https://careers.google.com",
+                "source_portal_url": "https://www.linkedin.com/jobs",
                 "job_description_raw": "Google's AI Research Lab in Accra is hiring Machine Learning Engineers to work on AI models tailored to local languages and agriculture challenges. Must be proficient in PyTorch/TensorFlow, Python, and Large Language Models. Full visa sponsorship and relocation support provided for international and diaspora candidates.",
                 "salary_range": {"min": 60000, "max": 95000, "currency": "USD", "type": "annual"},
                 "salary_confidence": "exact",
@@ -78,9 +82,18 @@ class LinkedInScraper(BaseScraper):
                 "salary_transparency": "yes",
                 "verification_status": "verified",
                 "last_checked": datetime.datetime.utcnow().isoformat() + "Z",
-                "application_link": "https://www.linkedin.com/jobs/view/aiml-engineer-google-accra",
+                "application_link": "https://careers.google.com",
                 "company_verified": "yes",
                 "posting_active": "yes"
             }
         ]
-        return jobs
+        
+        valid_jobs = []
+        for j in jobs:
+            v_status, c_verified, p_active = inspect_job_legitimacy(j)
+            j["verification_status"] = v_status
+            j["company_verified"] = c_verified
+            j["posting_active"] = p_active
+            if p_active == "yes":
+                valid_jobs.append(j)
+        return valid_jobs

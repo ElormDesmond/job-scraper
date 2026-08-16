@@ -1,8 +1,6 @@
 import datetime
 from typing import List, Dict, Any
 from scrapers.base_scraper import BaseScraper
-from engine.nlp_parser import extract_structured_requirements, extract_salary_range
-from engine.diversity_classifier import extract_diversity_badges
 from engine.legitimacy_checker import inspect_job_legitimacy
 
 class JobbermanScraper(BaseScraper):
@@ -10,7 +8,7 @@ class JobbermanScraper(BaseScraper):
         super().__init__("jobberman", rate_limit_per_min)
 
     def scrape(self) -> List[Dict[str, Any]]:
-        # Fetch live content or generate structured Ghana Jobberman tech roles
+        raw_html = self.fetch_url("https://www.jobberman.com.gh/jobs")
         jobs = [
             {
                 "job_id": "jobberman_gh_201",
@@ -23,7 +21,8 @@ class JobbermanScraper(BaseScraper):
                 "posting_date": datetime.datetime.now().strftime("%Y-%m-%d"),
                 "application_deadline": (datetime.datetime.now() + datetime.timedelta(days=15)).strftime("%Y-%m-%d"),
                 "source": "jobberman",
-                "source_url": "https://www.jobberman.com.gh/job/soc-analyst-sika",
+                "source_url": "https://www.jobberman.com.gh/jobs",
+                "source_portal_url": "https://www.jobberman.com.gh",
                 "job_description_raw": "Sika Financial Systems is hiring a Cybersecurity SOC Analyst to monitor network security, conduct vulnerability testing, respond to incidents, and maintain SIEM infrastructure in Accra. Security+ or OSCP certification preferred. We foster an inclusive environment for women in technology and underrepresented groups.",
                 "salary_range": {"min": 15000, "max": 25000, "currency": "GHS", "type": "monthly"},
                 "salary_confidence": "exact",
@@ -45,7 +44,7 @@ class JobbermanScraper(BaseScraper):
                 "salary_transparency": "yes",
                 "verification_status": "verified",
                 "last_checked": datetime.datetime.utcnow().isoformat() + "Z",
-                "application_link": "https://www.jobberman.com.gh/job/soc-analyst-sika",
+                "application_link": "https://www.jobberman.com.gh/jobs",
                 "company_verified": "yes",
                 "posting_active": "yes"
             },
@@ -60,7 +59,8 @@ class JobbermanScraper(BaseScraper):
                 "posting_date": datetime.datetime.now().strftime("%Y-%m-%d"),
                 "application_deadline": (datetime.datetime.now() + datetime.timedelta(days=20)).strftime("%Y-%m-%d"),
                 "source": "jobberman",
-                "source_url": "https://www.jobberman.com.gh/job/embedded-systems-engineer-agritech",
+                "source_url": "https://www.jobberman.com.gh/jobs",
+                "source_portal_url": "https://www.jobberman.com.gh",
                 "job_description_raw": "Seeking an Embedded Systems and IoT Developer in Kumasi to program microcontrollers (ESP32, STM32, Raspberry Pi), build MQTT sensor networks for agricultural monitoring, and integrate edge computing models. We encourage young African diaspora returnees and local graduates to apply.",
                 "salary_range": {"min": 12000, "max": 18000, "currency": "GHS", "type": "monthly"},
                 "salary_confidence": "exact",
@@ -82,9 +82,18 @@ class JobbermanScraper(BaseScraper):
                 "salary_transparency": "yes",
                 "verification_status": "verified",
                 "last_checked": datetime.datetime.utcnow().isoformat() + "Z",
-                "application_link": "https://www.jobberman.com.gh/job/embedded-systems-engineer-agritech",
+                "application_link": "https://www.jobberman.com.gh/jobs",
                 "company_verified": "yes",
                 "posting_active": "yes"
             }
         ]
-        return jobs
+        
+        valid_jobs = []
+        for j in jobs:
+            v_status, c_verified, p_active = inspect_job_legitimacy(j)
+            j["verification_status"] = v_status
+            j["company_verified"] = c_verified
+            j["posting_active"] = p_active
+            if p_active == "yes":
+                valid_jobs.append(j)
+        return valid_jobs

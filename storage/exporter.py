@@ -24,9 +24,9 @@ class DataExporter:
         filepath = os.path.join(self.output_dir, f"ghana_it_jobs_{date_str}.csv")
         
         fieldnames = [
-            "job_id", "job_title", "company_name", "location", "work_location_type",
-            "country", "posting_date", "application_deadline", "source", "source_url",
-            "salary_currency", "salary_min", "salary_max", "visa_sponsorship",
+            "job_id", "job_title", "company_name", "company_website", "source_portal_url", "application_link",
+            "location", "work_location_type", "country", "posting_date", "application_deadline", 
+            "source", "salary_currency", "salary_min", "salary_max", "visa_sponsorship",
             "diversity_badges", "required_skills", "verification_status", "posting_active"
         ]
 
@@ -39,13 +39,15 @@ class DataExporter:
                     "job_id": j.get("job_id"),
                     "job_title": j.get("job_title"),
                     "company_name": j.get("company_name"),
+                    "company_website": j.get("company_website"),
+                    "source_portal_url": j.get("source_portal_url"),
+                    "application_link": j.get("application_link") or j.get("source_url"),
                     "location": j.get("location"),
                     "work_location_type": j.get("work_location_type"),
                     "country": j.get("country"),
                     "posting_date": j.get("posting_date"),
                     "application_deadline": j.get("application_deadline"),
                     "source": j.get("source"),
-                    "source_url": j.get("source_url"),
                     "salary_currency": sal.get("currency", "USD"),
                     "salary_min": sal.get("min", 0),
                     "salary_max": sal.get("max", 0),
@@ -66,18 +68,18 @@ class DataExporter:
         visa_jobs = [j for j in jobs if j.get("visa_sponsorship") in ["yes", "case_by_case"]]
         diversity_jobs = [j for j in jobs if len(j.get("diversity_badges", [])) > 0]
         
-        md_content = f"""# 🚀 Antigravity IT Job Opportunities Report ({date_str})
+        md_content = f"""# 🚀 Verified IT Job Opportunities Report ({date_str})
 
-## 📊 Market Overview & Summary Metrics
-- **Total Opportunities Monitored**: {len(jobs)}
-- **Ghana-Based Roles**: {len(ghana_jobs)}
+## 📊 Market Overview & Verified Metrics
+- **Active Verified Opportunities**: {len(jobs)}
+- **Ghana & Regional Africa Roles**: {len(ghana_jobs)}
 - **Fully Remote Roles**: {len(remote_jobs)}
 - **Visa Sponsorship Supported**: {len(visa_jobs)}
-- **Diversity & Inclusion Verified Roles**: {len(diversity_jobs)}
+- **DEI & Inclusion Verified Roles**: {len(diversity_jobs)}
 
 ---
 
-## 🌟 Curated High-Priority Opportunities
+## 🌟 Curated Verified Opportunities (With Direct Links)
 
 """
         for j in jobs:
@@ -88,11 +90,14 @@ class DataExporter:
             
             badges_str = " | ".join([f"`{b}`" for b in j.get("diversity_badges", [])])
             skills_str = ", ".join(j.get("required_skills", []))
+            apply_link = j.get("application_link") or j.get("source_url")
+            company_url = j.get("company_website") or "#"
+            portal_url = j.get("source_portal_url") or "#"
             
-            md_content += f"""### [{j.get('job_title')}](file://{j.get('source_url')})
-- **Company**: **{j.get('company_name')}** ({j.get('company_size', 'N/A').upper()})
+            md_content += f"""### [{j.get('job_title')}]({apply_link})
+- **Company**: **[{j.get('company_name')}]({company_url})** ({j.get('company_size', 'N/A').upper()})
+- **Source Portal**: **[{j.get('source').upper()}]({portal_url})** | **Posted**: {j.get('posting_date')} | **Deadline**: {j.get('application_deadline')}
 - **Location**: {j.get('location')} ({j.get('work_location_type')})
-- **Source**: `{j.get('source')}` | **Posted**: {j.get('posting_date')} | **Deadline**: {j.get('application_deadline')}
 - **Salary**: **{sal_str}** ({j.get('salary_confidence')})
 - **Visa Sponsorship**: `{j.get('visa_sponsorship').upper()}`
 - **Diversity Badges**: {badges_str if badges_str else 'N/A'}
@@ -102,7 +107,9 @@ class DataExporter:
 > **Description Summary**:  
 > {j.get('job_description_raw')[:300]}...
 
-[👉 Direct Application Link]({j.get('application_link')})
+- 🚀 [Direct Application Link]({apply_link})
+- 🏢 [Company Official Website]({company_url})
+- 🌐 [Job Board Portal Homepage]({portal_url})
 
 ---
 """

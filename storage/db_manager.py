@@ -1,14 +1,10 @@
 import sqlite3
 import json
 import os
-import shutil
 import datetime
 from typing import List, Dict, Any
 
-# Determine project root directory dynamically
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-
-# Check if running in a read-only environment like Vercel Lambda
 IS_VERCEL = os.environ.get("VERCEL", "0") == "1" or os.environ.get("AWS_LAMBDA_FUNCTION_NAME") is not None
 
 def get_writable_dir() -> str:
@@ -37,12 +33,14 @@ class DatabaseManager:
                     job_id TEXT PRIMARY KEY,
                     job_title TEXT,
                     company_name TEXT,
+                    company_website TEXT,
                     location TEXT,
                     work_location_type TEXT,
                     country TEXT,
                     posting_date TEXT,
                     source TEXT,
                     source_url TEXT,
+                    source_portal_url TEXT,
                     salary_min REAL,
                     salary_max REAL,
                     currency TEXT,
@@ -53,10 +51,16 @@ class DatabaseManager:
                     raw_data TEXT
                 )
             ''')
+            # Migration check for existing DB
+            cursor.execute("PRAGMA table_info(jobs)")
+            cols = [c[1] for c in cursor.fetchall()]
+            if "company_website" not in cols:
+                cursor.execute("ALTER TABLE jobs ADD COLUMN company_website TEXT")
+            if "source_portal_url" not in cols:
+                cursor.execute("ALTER TABLE jobs ADD COLUMN source_portal_url TEXT")
             conn.commit()
 
     def _seed_if_empty(self):
-        # If DB is empty, seed from bundled jobs_database.json
         all_jobs = self.get_all_jobs()
         if not all_jobs and os.path.exists(self.seed_json_path):
             try:
@@ -74,18 +78,20 @@ class DatabaseManager:
                 sal = j.get("salary_range", {})
                 cursor.execute('''
                     INSERT OR REPLACE INTO jobs 
-                    (job_id, job_title, company_name, location, work_location_type, country, posting_date, source, source_url, salary_min, salary_max, currency, verification_status, company_verified, posting_active, last_checked, raw_data)
-                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    (job_id, job_title, company_name, company_website, location, work_location_type, country, posting_date, source, source_url, source_portal_url, salary_min, salary_max, currency, verification_status, company_verified, posting_active, last_checked, raw_data)
+                    VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ''', (
                     j.get("job_id"),
                     j.get("job_title"),
                     j.get("company_name"),
+                    j.get("company_website"),
                     j.get("location"),
                     j.get("work_location_type"),
                     j.get("country"),
                     j.get("posting_date"),
                     j.get("source"),
                     j.get("source_url"),
+                    j.get("source_portal_url", "https://remotive.com"),
                     sal.get("min", 0),
                     sal.get("max", 0),
                     sal.get("currency", "USD"),
@@ -97,7 +103,6 @@ class DatabaseManager:
                 ))
             conn.commit()
 
-        # Update cumulative JSON database
         all_jobs = self.get_all_jobs()
         try:
             with open(self.json_path, 'w', encoding='utf-8') as f:
@@ -109,14 +114,13 @@ class DatabaseManager:
         try:
             with sqlite3.connect(self.db_path) as conn:
                 cursor = conn.cursor()
-                cursor.execute('SELECT raw_data FROM jobs ORDER BY posting_date DESC')
+                cursor.execute('SELECT raw_data FROM jobs WHERE posting_active = "yes" ORDER BY posting_date DESC')
                 rows = cursor.fetchall()
                 if rows:
                     return [json.loads(r[0]) for r in rows]
         except Exception as e:
             print(f"Database fetch error: {e}")
 
-        # Fallback to reading seed JSON file if SQLite fails or is empty
         if os.path.exists(self.seed_json_path):
             try:
                 with open(self.seed_json_path, 'r', encoding='utf-8') as f:
@@ -127,4 +131,4 @@ class DatabaseManager:
 
     def get_active_verified_jobs(self) -> List[Dict[str, Any]]:
         jobs = self.get_all_jobs()
-        return [j for j in jobs if j.get("posting_active") == "yes"]
+        return [j for j in jobs if j.get("posting_active") == "yes" and j.get("verification_status") == "verified"]

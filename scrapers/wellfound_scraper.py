@@ -1,6 +1,7 @@
 import datetime
 from typing import List, Dict, Any
 from scrapers.base_scraper import BaseScraper
+from engine.legitimacy_checker import inspect_job_legitimacy
 
 class WellfoundScraper(BaseScraper):
     def __init__(self, rate_limit_per_min: int = 8):
@@ -19,7 +20,8 @@ class WellfoundScraper(BaseScraper):
                 "posting_date": datetime.datetime.now().strftime("%Y-%m-%d"),
                 "application_deadline": (datetime.datetime.now() + datetime.timedelta(days=28)).strftime("%Y-%m-%d"),
                 "source": "wellfound",
-                "source_url": "https://wellfound.com/jobs/paystack-senior-frontend-developer",
+                "source_url": "https://paystack.com/careers",
+                "source_portal_url": "https://wellfound.com",
                 "job_description_raw": "Paystack is building financial infrastructure for Africa. We are hiring a Senior Frontend Developer experienced in React, TypeScript, TailwindCSS, and web accessibility standards. We proudly support LGBTQ+ friendly workplace initiatives and African diaspora tech programs.",
                 "salary_range": {"min": 50000, "max": 80000, "currency": "USD", "type": "annual"},
                 "salary_confidence": "exact",
@@ -41,9 +43,18 @@ class WellfoundScraper(BaseScraper):
                 "salary_transparency": "yes",
                 "verification_status": "verified",
                 "last_checked": datetime.datetime.utcnow().isoformat() + "Z",
-                "application_link": "https://wellfound.com/jobs/paystack-senior-frontend-developer",
+                "application_link": "https://paystack.com/careers",
                 "company_verified": "yes",
                 "posting_active": "yes"
             }
         ]
-        return jobs
+        
+        valid_jobs = []
+        for j in jobs:
+            v_status, c_verified, p_active = inspect_job_legitimacy(j)
+            j["verification_status"] = v_status
+            j["company_verified"] = c_verified
+            j["posting_active"] = p_active
+            if p_active == "yes":
+                valid_jobs.append(j)
+        return valid_jobs

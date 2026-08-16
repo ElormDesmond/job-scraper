@@ -22,13 +22,11 @@ class WeWorkRemotelyScraper(BaseScraper):
                     title_elem = item.find('title')
                     link_elem = item.find('link')
                     desc_elem = item.find('description')
-                    pub_elem = item.find('pubDate')
 
                     full_title = title_elem.text if title_elem is not None else "Remote Engineer"
                     url = link_elem.text if link_elem is not None else "https://weworkremotely.com"
                     description = desc_elem.text if desc_elem is not None else full_title
                     
-                    # Title format usually: Company Name is hiring a Job Title
                     company = "Remote Company"
                     job_title = full_title
                     if ":" in full_title:
@@ -41,12 +39,13 @@ class WeWorkRemotelyScraper(BaseScraper):
                     div_badges = extract_diversity_badges(description)
 
                     job_id = f"wwr_{hash(url)}"
+                    company_clean = company.lower().replace(' ', '').replace(':', '').replace('.', '')
 
                     job_dict = {
                         "job_id": job_id,
                         "job_title": job_title,
                         "company_name": company,
-                        "company_website": f"https://{company.lower().replace(' ', '').replace(':', '')}.com",
+                        "company_website": f"https://{company_clean}.com",
                         "location": "Worldwide Remote",
                         "work_location_type": "remote_only",
                         "country": "International",
@@ -54,6 +53,7 @@ class WeWorkRemotelyScraper(BaseScraper):
                         "application_deadline": (datetime.datetime.now() + datetime.timedelta(days=30)).strftime("%Y-%m-%d"),
                         "source": "weworkremotely",
                         "source_url": url,
+                        "source_portal_url": "https://weworkremotely.com",
                         "job_description_raw": description,
                         "salary_range": sal["salary_range"],
                         "salary_confidence": sal["salary_confidence"],
@@ -85,7 +85,8 @@ class WeWorkRemotelyScraper(BaseScraper):
                     job_dict["company_verified"] = c_verified
                     job_dict["posting_active"] = p_active
 
-                    jobs.append(job_dict)
+                    if p_active == "yes":
+                        jobs.append(job_dict)
             except Exception as e:
                 self.logger.error(f"Error parsing WeWorkRemotely RSS: {e}")
 

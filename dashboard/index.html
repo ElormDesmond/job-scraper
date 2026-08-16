@@ -788,9 +788,15 @@
       <h4 style="color: #fff; font-family: var(--font-heading); margin-top: 14px; font-size: 15px;">Full Description</h4>
       <div class="desc-box" id="modal-description"></div>
 
-      <div style="display: flex; gap: 10px; justify-content: flex-end; margin-top: 16px;">
-        <button class="btn btn-secondary" onclick="closeModal()">Close</button>
-        <a id="modal-apply-btn" href="#" target="_blank" class="btn btn-primary" style="flex: 1; max-width: 220px;">🚀 Apply Now</a>
+      <div style="display: flex; flex-direction: column; gap: 10px; margin-top: 16px;">
+        <div style="display: flex; gap: 8px; flex-wrap: wrap;">
+          <a id="modal-company-btn" href="#" target="_blank" class="btn btn-secondary" style="flex: 1; min-width: 140px; font-size: 12px; min-height: 38px;">🏢 Company Website</a>
+          <a id="modal-portal-btn" href="#" target="_blank" class="btn btn-secondary" style="flex: 1; min-width: 140px; font-size: 12px; min-height: 38px;">🌐 Job Board Portal</a>
+        </div>
+        <div style="display: flex; gap: 10px; justify-content: flex-end;">
+          <button class="btn btn-secondary" onclick="closeModal()">Close</button>
+          <a id="modal-apply-btn" href="#" target="_blank" class="btn btn-primary" style="flex: 1;">🚀 Direct Application Link</a>
+        </div>
       </div>
     </div>
   </div>
@@ -911,7 +917,9 @@
       document.getElementById('modal-job-title').innerText = job.job_title;
       document.getElementById('modal-company').innerText = `${job.company_name} • ${job.location} (${job.work_location_type})`;
       document.getElementById('modal-description').innerText = job.job_description_raw;
-      document.getElementById('modal-apply-btn').href = job.application_link || job.source_url;
+      document.getElementById('modal-apply-btn').href = job.application_link || job.source_url || '#';
+      document.getElementById('modal-company-btn').href = job.company_website || '#';
+      document.getElementById('modal-portal-btn').href = job.source_portal_url || '#';
 
       const sal = job.salary_range || {};
       const salText = sal.min ? `${sal.currency || 'USD'} ${sal.min.toLocaleString()}${sal.max ? ' - ' + sal.max.toLocaleString() : ''}` : 'Undisclosed';

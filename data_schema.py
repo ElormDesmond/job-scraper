@@ -1,8 +1,6 @@
-from dataclass import dataclass
+from dataclasses import dataclass
 from typing import List, Dict, Optional, Any
 from datetime import datetime
-import json
-import uuid
 
 @dataclass
 class JobListing:
@@ -16,8 +14,9 @@ class JobListing:
     country: str
     posting_date: str  # YYYY-MM-DD
     application_deadline: str
-    source: str  # linkedin | glassdoor | wellfound | remoteok | jobberman | other
+    source: str  # linkedin | glassdoor | wellfound | remotive | weworkremotely | devto | jobberman | myjobmag | tonaton | relocateme | jobhouse | company_careers
     source_url: str
+    source_portal_url: str  # Official job board portal homepage/search URL
     job_description_raw: str
     salary_range: Dict[str, Any]  # {min, max, currency, type: annual|monthly|hourly}
     salary_confidence: str  # exact | estimated | not_provided
@@ -62,6 +61,7 @@ class JobListing:
             "application_deadline": self.application_deadline,
             "source": self.source,
             "source_url": self.source_url,
+            "source_portal_url": self.source_portal_url,
             "job_description_raw": self.job_description_raw,
             "salary_range": self.salary_range,
             "salary_confidence": self.salary_confidence,
