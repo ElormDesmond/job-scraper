@@ -1,10 +1,11 @@
 {
   "ANTIGRAVITY_JOB_SCRAPER": {
     "enabled": true,
-    "version": "1.1.0",
+    "version": "1.2.0",
     "sources": {
       "remotive": { "enabled": true, "rate_limit_per_min": 15 },
       "weworkremotely": { "enabled": true, "rate_limit_per_min": 10 },
+      "devto": { "enabled": true, "rate_limit_per_min": 15 },
       "jobberman": { "enabled": true, "rate_limit_per_min": 12 },
       "myjobmag": { "enabled": true, "rate_limit_per_min": 10 },
       "tonaton": { "enabled": true, "rate_limit_per_min": 10 },

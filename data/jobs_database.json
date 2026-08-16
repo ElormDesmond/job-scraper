@@ -3482,6 +3482,120 @@
     "posting_active": "yes"
   },
   {
+    "job_id": "devto_4204538",
+    "job_title": "Part-Time Job Opportunities for Remote and In-Person Work",
+    "company_name": "Diane Rainey",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-22",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/dianerainey/part-time-job-opportunities-for-remote-and-in-person-work-2f6b",
+    "job_description_raw": "In today's flexible job market, part-time jobs offer an excellent way to earn extra income, gain...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.824392Z",
+    "application_link": "https://dev.to/dianerainey/part-time-job-opportunities-for-remote-and-in-person-work-2f6b",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_4178575",
+    "job_title": "APIs to Apply on Jobs: What They Actually Do and Why Most \"Job APIs\" Aren't One",
+    "company_name": "Boring project",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-19",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/boring_project_1/apis-to-apply-on-jobs-what-they-actually-do-and-why-most-job-apis-arent-one-3l52",
+    "job_description_raw": "If you've searched for APIs to apply on jobs, you've probably noticed the results don't quite match...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.824905Z",
+    "application_link": "https://dev.to/boring_project_1/apis-to-apply-on-jobs-what-they-actually-do-and-why-most-job-apis-arent-one-3l52",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
     "job_id": "remotive_2091069",
     "job_title": "Patient Care Specialist",
     "company_name": "STATLINX",
@@ -3534,5 +3648,746 @@
     "application_link": "https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069",
     "company_verified": "yes",
     "posting_active": "yes"
+  },
+  {
+    "job_id": "devto_4101649",
+    "job_title": "AI Job-Search Agent on Claude Code: Inside the 15k-Star ai-job-search Framework (2026)",
+    "company_name": "Rohit Raj",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-09",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/rohit_raj_8c7902b7d37cf21/ai-job-search-agent-on-claude-code-inside-the-15k-star-ai-job-search-framework-2026-79k",
+    "job_description_raw": "ai-job-search crossed 15,000 GitHub stars \u2014 5,000+ in one day \u2014 as one of 2026's fastest-growing Claude Code workflows. It's not an app; it's a fork-and-fill framework that turns the Claude Code CLI i",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T17:15:47.825963Z",
+    "application_link": "https://dev.to/rohit_raj_8c7902b7d37cf21/ai-job-search-agent-on-claude-code-inside-the-15k-star-ai-job-search-framework-2026-79k",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "devto_4082494",
+    "job_title": "The 4 Best Free Resume Builders in 2026 (Tested & Compared)",
+    "company_name": "Gerardo Barrera",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-06",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk",
+    "job_description_raw": "I tested the most popular resume builders to find which ones are actually free \u2014 no watermark, no credit card, real PDF export, and ATS-friendly output. Here are the 4 that held up.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T17:15:47.825416Z",
+    "application_link": "https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "devto_4070600",
+    "job_title": "Why I Left China as a Data Analyst",
+    "company_name": "Jin",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-05",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/luca1iu/why-i-left-china-as-a-data-analyst-2f1g",
+    "job_description_raw": "Discover the challenges faced by a data analyst in China, from tech decoupling to AI barriers, and learn why the decision to leave was essential for career growth.",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "verified",
+    "last_checked": "2026-08-16T17:15:47.827531Z",
+    "application_link": "https://dev.to/luca1iu/why-i-left-china-as-a-data-analyst-2f1g",
+    "company_verified": "yes",
+    "posting_active": "yes"
+  },
+  {
+    "job_id": "devto_4067473",
+    "job_title": "Government Job vs Private Job - An Honest Take",
+    "company_name": "Anushka Quietly Building",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-04",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/anushka_shinde_99/government-job-vs-private-job-an-honest-take-83k",
+    "job_description_raw": "Everyone has an opinion about this.  Parents say government job. LinkedIn says private...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.827833Z",
+    "application_link": "https://dev.to/anushka_shinde_99/government-job-vs-private-job-an-honest-take-83k",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_4044690",
+    "job_title": "What Are Your Salary Expectations? I Tested 12 Answers",
+    "company_name": "charlie-morrison",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-01",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/charliemorrison/what-are-your-salary-expectations-i-tested-12-answers-4j65",
+    "job_description_raw": "There is a piece of advice about the salary-expectations question that gets repeated in every career...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.826290Z",
+    "application_link": "https://dev.to/charliemorrison/what-are-your-salary-expectations-i-tested-12-answers-4j65",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_4045413",
+    "job_title": "The Job Hunter's Complete AI Toolkit in 2026",
+    "company_name": "freelancewith_ai",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-01",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/freelancewith_ai/the-job-hunters-complete-ai-toolkit-in-2026-10nc",
+    "job_description_raw": "Job hunting in 2026 is a numbers game. Hundreds of applicants for every role, ATS filters rejecting...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.828550Z",
+    "application_link": "https://dev.to/freelancewith_ai/the-job-hunters-complete-ai-toolkit-in-2026-10nc",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_4038271",
+    "job_title": "The AI Career Toolkit That Replaced My Job Hunt in 2026",
+    "company_name": "freelancewith_ai",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-07-01",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/freelancewith_ai/the-ai-career-toolkit-that-replaced-my-job-hunt-in-2026-14aa",
+    "job_description_raw": "Job hunting in 2026 is brutal. You're competing against hundreds of applicants for every role, most...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.828913Z",
+    "application_link": "https://dev.to/freelancewith_ai/the-ai-career-toolkit-that-replaced-my-job-hunt-in-2026-14aa",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_3939400",
+    "job_title": "\ud83d\ude80 Welcome to the SponFest Community!",
+    "company_name": "Nihar Thalkar",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-06-19",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/nihar_thalkar_ab25f05d874/welcome-to-the-sponfest-community-4916",
+    "job_description_raw": "Hey everyone,  As a second-year B.Tech student, I've noticed a massive recurring problem. Whenever...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.826701Z",
+    "application_link": "https://dev.to/nihar_thalkar_ab25f05d874/welcome-to-the-sponfest-community-4916",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_3911636",
+    "job_title": "Best AI Resume Builder Websites in 2026: Create Better Resumes Faster",
+    "company_name": "aiwithsahil | Sahil Alam",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-06-16",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/aiwithsahil/best-ai-resume-builder-websites-in-2026-create-better-resumes-faster-5g7j",
+    "job_description_raw": "Discover the best AI resume builders that help students, freshers, freelancers, and professionals...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.827027Z",
+    "application_link": "https://dev.to/aiwithsahil/best-ai-resume-builder-websites-in-2026-create-better-resumes-faster-5g7j",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_3800278",
+    "job_title": "Revolutionizing Job Applications: How AI Agents Can Help You Land Your Dream Job",
+    "company_name": "howiprompt",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-06-02",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/howiprompt/revolutionizing-job-applications-how-ai-agents-can-help-you-land-your-dream-job-30jb",
+    "job_description_raw": "# Revolutionizing Job Applications: How AI Agents Can Help You Land Your Dream Job As a job seeker, you're probably no stranger to the frust",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.828234Z",
+    "application_link": "https://dev.to/howiprompt/revolutionizing-job-applications-how-ai-agents-can-help-you-land-your-dream-job-30jb",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_3716321",
+    "job_title": "\u201cI\u2019m Sick of Endlessly Applying to Jobs!\u201d How IT Professionals Can Find Work in 2026",
+    "company_name": "Pavel Gnedkov",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-05-21",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/pavel_gnedkov/im-sick-of-endlessly-applying-to-jobs-how-it-professionals-can-find-work-in-2026-287n",
+    "job_description_raw": "A senior backend developer with eight years of experience and a strong tech stack has been looking...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 5,
+      "preferred": 8
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.829202Z",
+    "application_link": "https://dev.to/pavel_gnedkov/im-sick-of-endlessly-applying-to-jobs-how-it-professionals-can-find-work-in-2026-287n",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_3680750",
+    "job_title": "AI Engineer vs Machine Learning Engineer in 2026: Salary, Skills",
+    "company_name": "Gnana",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-05-16",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf",
+    "job_description_raw": "The Short Answer   Machine Learning Engineer pays more and hires more; AI Engineer is the...",
+    "salary_range": {
+      "min": 0,
+      "max": 0,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "not_provided",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "no",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.829471Z",
+    "application_link": "https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf",
+    "company_verified": "no",
+    "posting_active": "no"
+  },
+  {
+    "job_id": "devto_3638219",
+    "job_title": "I built a free AI resume optimizer \u2014 no login, no fee, zero tracking. Use it before I run out of budget.",
+    "company_name": "Leo Gong",
+    "company_website": "https://dev.to",
+    "location": "Worldwide Remote",
+    "work_location_type": "remote_only",
+    "country": "International",
+    "posting_date": "2026-05-09",
+    "application_deadline": "2026-09-10",
+    "source": "devto",
+    "source_url": "https://dev.to/leo_gong_18d5831624ce427f/i-built-a-free-ai-resume-optimizer-no-login-no-fee-zero-tracking-use-it-before-i-run-out-of-28ci",
+    "job_description_raw": "Job hunting is brutal enough without paying $30/month just to have your resume \"analyzed.\"  So I...",
+    "salary_range": {
+      "min": 30,
+      "max": 30,
+      "currency": "USD",
+      "type": "annual"
+    },
+    "salary_confidence": "exact",
+    "required_skills": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js"
+    ],
+    "required_experience_years": {
+      "min": 1,
+      "preferred": 3
+    },
+    "required_education": [],
+    "preferred_qualifications": [
+      "Open source contributions"
+    ],
+    "certifications_required": [],
+    "programming_languages": [],
+    "tools_frameworks": [],
+    "company_size": "smb",
+    "company_industry": "Technology",
+    "hiring_urgency": "normal",
+    "visa_sponsorship": "not_mentioned",
+    "work_visa_support": "Not specified in posting description",
+    "relocation_assistance": "no",
+    "benefits_listed": [
+      "100% Remote",
+      "Flexible Working Hours"
+    ],
+    "diversity_badges": [
+      "DEI Commitment"
+    ],
+    "salary_transparency": "yes",
+    "verification_status": "failed",
+    "last_checked": "2026-08-16T17:15:47.829762Z",
+    "application_link": "https://dev.to/leo_gong_18d5831624ce427f/i-built-a-free-ai-resume-optimizer-no-login-no-fee-zero-tracking-use-it-before-i-run-out-of-28ci",
+    "company_verified": "no",
+    "posting_active": "no"
   }
 ]

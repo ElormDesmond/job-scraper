@@ -1,11 +1,11 @@
 # 🚀 Antigravity IT Job Opportunities Report (2026-08-16)
 
 ## 📊 Market Overview & Summary Metrics
-- **Total Opportunities Monitored**: 56
+- **Total Opportunities Monitored**: 71
 - **Ghana-Based Roles**: 12
-- **Fully Remote Roles**: 45
+- **Fully Remote Roles**: 60
 - **Visa Sponsorship Supported**: 7
-- **Diversity & Inclusion Verified Roles**: 56
+- **Diversity & Inclusion Verified Roles**: 71
 
 ---
 
@@ -998,6 +998,38 @@
 [👉 Direct Application Link](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074)
 
 ---
+### [Part-Time Job Opportunities for Remote and In-Person Work](file://https://dev.to/dianerainey/part-time-job-opportunities-for-remote-and-in-person-work-2f6b)
+- **Company**: **Diane Rainey** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-22 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> In today's flexible job market, part-time jobs offer an excellent way to earn extra income, gain......
+
+[👉 Direct Application Link](https://dev.to/dianerainey/part-time-job-opportunities-for-remote-and-in-person-work-2f6b)
+
+---
+### [APIs to Apply on Jobs: What They Actually Do and Why Most "Job APIs" Aren't One](file://https://dev.to/boring_project_1/apis-to-apply-on-jobs-what-they-actually-do-and-why-most-job-apis-arent-one-3l52)
+- **Company**: **Boring project** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-19 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> If you've searched for APIs to apply on jobs, you've probably noticed the results don't quite match......
+
+[👉 Direct Application Link](https://dev.to/boring_project_1/apis-to-apply-on-jobs-what-they-actually-do-and-why-most-job-apis-arent-one-3l52)
+
+---
 ### [Patient Care Specialist](file://https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069)
 - **Company**: **STATLINX** (SMB)
 - **Location**: USA (remote_only)
@@ -1014,5 +1046,213 @@
 <p style...
 
 [👉 Direct Application Link](https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069)
+
+---
+### [AI Job-Search Agent on Claude Code: Inside the 15k-Star ai-job-search Framework (2026)](file://https://dev.to/rohit_raj_8c7902b7d37cf21/ai-job-search-agent-on-claude-code-inside-the-15k-star-ai-job-search-framework-2026-79k)
+- **Company**: **Rohit Raj** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-09 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> ai-job-search crossed 15,000 GitHub stars — 5,000+ in one day — as one of 2026's fastest-growing Claude Code workflows. It's not an app; it's a fork-and-fill framework that turns the Claude Code CLI i...
+
+[👉 Direct Application Link](https://dev.to/rohit_raj_8c7902b7d37cf21/ai-job-search-agent-on-claude-code-inside-the-15k-star-ai-job-search-framework-2026-79k)
+
+---
+### [The 4 Best Free Resume Builders in 2026 (Tested & Compared)](file://https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk)
+- **Company**: **Gerardo Barrera** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-06 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> I tested the most popular resume builders to find which ones are actually free — no watermark, no credit card, real PDF export, and ATS-friendly output. Here are the 4 that held up....
+
+[👉 Direct Application Link](https://dev.to/gerardo_barrera_538fc60b7/the-4-best-free-resume-builders-in-2026-tested-compared-7jk)
+
+---
+### [Why I Left China as a Data Analyst](file://https://dev.to/luca1iu/why-i-left-china-as-a-data-analyst-2f1g)
+- **Company**: **Jin** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-05 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> Discover the challenges faced by a data analyst in China, from tech decoupling to AI barriers, and learn why the decision to leave was essential for career growth....
+
+[👉 Direct Application Link](https://dev.to/luca1iu/why-i-left-china-as-a-data-analyst-2f1g)
+
+---
+### [Government Job vs Private Job - An Honest Take](file://https://dev.to/anushka_shinde_99/government-job-vs-private-job-an-honest-take-83k)
+- **Company**: **Anushka Quietly Building** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-04 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> Everyone has an opinion about this.  Parents say government job. LinkedIn says private......
+
+[👉 Direct Application Link](https://dev.to/anushka_shinde_99/government-job-vs-private-job-an-honest-take-83k)
+
+---
+### [What Are Your Salary Expectations? I Tested 12 Answers](file://https://dev.to/charliemorrison/what-are-your-salary-expectations-i-tested-12-answers-4j65)
+- **Company**: **charlie-morrison** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-01 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> There is a piece of advice about the salary-expectations question that gets repeated in every career......
+
+[👉 Direct Application Link](https://dev.to/charliemorrison/what-are-your-salary-expectations-i-tested-12-answers-4j65)
+
+---
+### [The Job Hunter's Complete AI Toolkit in 2026](file://https://dev.to/freelancewith_ai/the-job-hunters-complete-ai-toolkit-in-2026-10nc)
+- **Company**: **freelancewith_ai** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-01 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> Job hunting in 2026 is a numbers game. Hundreds of applicants for every role, ATS filters rejecting......
+
+[👉 Direct Application Link](https://dev.to/freelancewith_ai/the-job-hunters-complete-ai-toolkit-in-2026-10nc)
+
+---
+### [The AI Career Toolkit That Replaced My Job Hunt in 2026](file://https://dev.to/freelancewith_ai/the-ai-career-toolkit-that-replaced-my-job-hunt-in-2026-14aa)
+- **Company**: **freelancewith_ai** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-07-01 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> Job hunting in 2026 is brutal. You're competing against hundreds of applicants for every role, most......
+
+[👉 Direct Application Link](https://dev.to/freelancewith_ai/the-ai-career-toolkit-that-replaced-my-job-hunt-in-2026-14aa)
+
+---
+### [🚀 Welcome to the SponFest Community!](file://https://dev.to/nihar_thalkar_ab25f05d874/welcome-to-the-sponfest-community-4916)
+- **Company**: **Nihar Thalkar** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-06-19 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> Hey everyone,  As a second-year B.Tech student, I've noticed a massive recurring problem. Whenever......
+
+[👉 Direct Application Link](https://dev.to/nihar_thalkar_ab25f05d874/welcome-to-the-sponfest-community-4916)
+
+---
+### [Best AI Resume Builder Websites in 2026: Create Better Resumes Faster](file://https://dev.to/aiwithsahil/best-ai-resume-builder-websites-in-2026-create-better-resumes-faster-5g7j)
+- **Company**: **aiwithsahil | Sahil Alam** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-06-16 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> Discover the best AI resume builders that help students, freshers, freelancers, and professionals......
+
+[👉 Direct Application Link](https://dev.to/aiwithsahil/best-ai-resume-builder-websites-in-2026-create-better-resumes-faster-5g7j)
+
+---
+### [Revolutionizing Job Applications: How AI Agents Can Help You Land Your Dream Job](file://https://dev.to/howiprompt/revolutionizing-job-applications-how-ai-agents-can-help-you-land-your-dream-job-30jb)
+- **Company**: **howiprompt** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-06-02 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> # Revolutionizing Job Applications: How AI Agents Can Help You Land Your Dream Job As a job seeker, you're probably no stranger to the frust...
+
+[👉 Direct Application Link](https://dev.to/howiprompt/revolutionizing-job-applications-how-ai-agents-can-help-you-land-your-dream-job-30jb)
+
+---
+### [“I’m Sick of Endlessly Applying to Jobs!” How IT Professionals Can Find Work in 2026](file://https://dev.to/pavel_gnedkov/im-sick-of-endlessly-applying-to-jobs-how-it-professionals-can-find-work-in-2026-287n)
+- **Company**: **Pavel Gnedkov** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-05-21 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> A senior backend developer with eight years of experience and a strong tech stack has been looking......
+
+[👉 Direct Application Link](https://dev.to/pavel_gnedkov/im-sick-of-endlessly-applying-to-jobs-how-it-professionals-can-find-work-in-2026-287n)
+
+---
+### [AI Engineer vs Machine Learning Engineer in 2026: Salary, Skills](file://https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf)
+- **Company**: **Gnana** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-05-16 | **Deadline**: 2026-09-10
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> The Short Answer   Machine Learning Engineer pays more and hires more; AI Engineer is the......
+
+[👉 Direct Application Link](https://dev.to/gnana_6392e836fd500a957dc/ai-engineer-vs-machine-learning-engineer-in-2026-salary-skills-5baf)
+
+---
+### [I built a free AI resume optimizer — no login, no fee, zero tracking. Use it before I run out of budget.](file://https://dev.to/leo_gong_18d5831624ce427f/i-built-a-free-ai-resume-optimizer-no-login-no-fee-zero-tracking-use-it-before-i-run-out-of-28ci)
+- **Company**: **Leo Gong** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `devto` | **Posted**: 2026-05-09 | **Deadline**: 2026-09-10
+- **Salary**: **USD 30** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `JavaScript, Python, React, Node.js`
+- **Verification**: `STATUS: FAILED` | `COMPANY VERIFIED: NO`
+
+> **Description Summary**:  
+> Job hunting is brutal enough without paying $30/month just to have your resume "analyzed."  So I......
+
+[👉 Direct Application Link](https://dev.to/leo_gong_18d5831624ce427f/i-built-a-free-ai-resume-optimizer-no-login-no-fee-zero-tracking-use-it-before-i-run-out-of-28ci)
 
 ---

@@ -2,6 +2,7 @@ import logging
 from typing import List, Dict, Any
 from scrapers.remotive_scraper import RemotiveScraper
 from scrapers.weworkremotely_scraper import WeWorkRemotelyScraper
+from scrapers.devto_scraper import DevToScraper
 from scrapers.jobberman_scraper import JobbermanScraper
 from scrapers.myjobmag_scraper import MyJobMagScraper
 from scrapers.tonaton_scraper import TonatonScraper
@@ -22,6 +23,8 @@ class ScraperManager:
             self.scrapers.append(RemotiveScraper(self.sources_cfg.get("remotive", {}).get("rate_limit_per_min", 15)))
         if self.sources_cfg.get("weworkremotely", {}).get("enabled", True):
             self.scrapers.append(WeWorkRemotelyScraper(self.sources_cfg.get("weworkremotely", {}).get("rate_limit_per_min", 10)))
+        if self.sources_cfg.get("devto", {}).get("enabled", True):
+            self.scrapers.append(DevToScraper(self.sources_cfg.get("devto", {}).get("rate_limit_per_min", 15)))
         if self.sources_cfg.get("jobberman", {}).get("enabled", True):
             self.scrapers.append(JobbermanScraper(self.sources_cfg.get("jobberman", {}).get("rate_limit_per_min", 12)))
         if self.sources_cfg.get("myjobmag", {}).get("enabled", True):
