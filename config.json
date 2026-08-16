@@ -1,13 +1,18 @@
 {
   "ANTIGRAVITY_JOB_SCRAPER": {
     "enabled": true,
-    "version": "1.0.0",
+    "version": "1.1.0",
     "sources": {
+      "remotive": { "enabled": true, "rate_limit_per_min": 15 },
+      "weworkremotely": { "enabled": true, "rate_limit_per_min": 10 },
+      "jobberman": { "enabled": true, "rate_limit_per_min": 12 },
+      "myjobmag": { "enabled": true, "rate_limit_per_min": 10 },
+      "tonaton": { "enabled": true, "rate_limit_per_min": 10 },
+      "relocateme": { "enabled": true, "rate_limit_per_min": 8 },
+      "jobhouse": { "enabled": true, "rate_limit_per_min": 10 },
       "linkedin": { "enabled": true, "rate_limit_per_min": 10 },
       "glassdoor": { "enabled": true, "rate_limit_per_min": 5 },
       "wellfound": { "enabled": true, "rate_limit_per_min": 8 },
-      "remoteok": { "enabled": true, "rate_limit_per_min": 15 },
-      "jobberman": { "enabled": true, "rate_limit_per_min": 12 },
       "company_careers": { "enabled": true, "rate_limit_per_min": 10 }
     },
     "target_locations": {

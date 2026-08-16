@@ -1,11 +1,11 @@
 # 🚀 Antigravity IT Job Opportunities Report (2026-08-16)
 
 ## 📊 Market Overview & Summary Metrics
-- **Total Opportunities Monitored**: 23
-- **Ghana-Based Roles**: 9
-- **Fully Remote Roles**: 16
-- **Visa Sponsorship Supported**: 6
-- **Diversity & Inclusion Verified Roles**: 23
+- **Total Opportunities Monitored**: 56
+- **Ghana-Based Roles**: 12
+- **Fully Remote Roles**: 45
+- **Visa Sponsorship Supported**: 7
+- **Diversity & Inclusion Verified Roles**: 56
 
 ---
 
@@ -153,6 +153,412 @@
 > We are seeking a Senior Full-Stack Engineer based in Ghana or West Africa to design scalable web applications using Next.js, React, Python, FastAPI, and AWS. We actively encourage applications from underrepresented minorities, women in tech, and African diaspora talent....
 
 [👉 Direct Application Link](https://remoteok.com/jobs/senior-fullstack-engineer-afrotech)
+
+---
+### [GTM Operations Process Architect](file://https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect)
+- **Company**: **Stripe** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `Go, SQL`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> US Remote National
+</p>
+
+<h2><strong>Who we are </strong></h2>
+<h3><strong>About Stripe</strong></h3>
+<p><span>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world’s largest enterprises to the most ambitious start...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/stripe-gtm-operations-process-architect)
+
+---
+### [Fullstack Engineer, Privy](file://https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy)
+- **Company**: **Stripe** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `React, AWS, TypeScript, Next.js`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> NYC-Privy, US-Remote 
+</p>
+
+<h2><strong>Who we are</strong></h2>
+<h3><strong>About Privy</strong></h3>
+<p>Our mission is to make privacy and user ownership the default online. To do so, we build simple, flexible APIs and tools for developers that make it easy t...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/stripe-fullstack-engineer-privy)
+
+---
+### [GFCO Program Manager](file://https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager)
+- **Company**: **Coinbase** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 193,970** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: `Go`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote - USA
+</p>
+
+<div class="content-intro"><p>Ready to do the most impactful work of your career? At&nbsp;<a href="https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase">Coinbase</a>, we are uncompromising on our missi...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/coinbase-gfco-program-manager)
+
+---
+### [Creative Director](file://https://weworkremotely.com/remote-jobs/coinbase-creative-director)
+- **Company**: **Coinbase** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 216,300** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote - Canada
+</p>
+
+<div class="content-intro"><p>Ready to do the most impactful work of your career? At&nbsp;<a href="https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase">Coinbase</a>, we are uncompromising on our mi...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/coinbase-creative-director)
+
+---
+### [Counsel, Commercial](file://https://weworkremotely.com/remote-jobs/coinbase-counsel-commercial)
+- **Company**: **Coinbase** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 183,855** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote - USA
+</p>
+
+<div class="content-intro"><p>Ready to do the most impactful work of your career? At&nbsp;<a href="https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase">Coinbase</a>, we are uncompromising on our missi...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/coinbase-counsel-commercial)
+
+---
+### [Senior Solutions Architect](file://https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect)
+- **Company**: **Airtable** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 170,000** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote - US
+</p>
+
+<div class="content-intro"><p>Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtab...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect)
+
+---
+### [Senior Solutions Architect- West Coast](file://https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect-west-coast)
+- **Company**: **Airtable** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 170,000** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote-US
+</p>
+
+<div class="content-intro"><p>Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, rely on Airtable...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/airtable-senior-solutions-architect-west-coast)
+
+---
+### [Staff Software Engineer,  AI Developer Tools](file://https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools)
+- **Company**: **Gusto, Inc.** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 180,000** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Denver, CO;New York, NY;Atlanta, GA;Seattle, WA;United States - Remote
+</p>
+
+<div class="content-intro"><p>&nbsp;</p>
+<hr>
+<p><strong>About Gusto</strong></p>
+<p>At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff — payroll...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/gusto-inc-staff-software-engineer-ai-developer-tools)
+
+---
+### [Communications Manager, Policy & Public Affairs](file://https://weworkremotely.com/remote-jobs/coinbase-communications-manager-policy-public-affairs)
+- **Company**: **Coinbase** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 170,765** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote - USA
+</p>
+
+<div class="content-intro"><p>Ready to do the most impactful work of your career? At&nbsp;<a href="https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase">Coinbase</a>, we are uncompromising on our missi...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/coinbase-communications-manager-policy-public-affairs)
+
+---
+### [Head of Field and Partner Marketing](file://https://weworkremotely.com/remote-jobs/dropbox-head-of-field-and-partner-marketing)
+- **Company**: **Dropbox** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 247,900** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `Go`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote - US: Select locations
+</p>
+
+<h2 class="p1"><span class="s1">Role Description</span></h2>
+<p><span class=" author-d-1gg9uz65z1iz85zgdz68zmqkz84zo2qotuz85z94kqu9xz70zz67zz77zi4z82zl8u73z66zxz66zz76zyz85ziz80zsz83zu">Dropbox is hiring a </span><span class=...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/dropbox-head-of-field-and-partner-marketing)
+
+---
+### [Credit Risk Analyst, North American Underwriter](file://https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter)
+- **Company**: **Stripe** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `SQL`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Toronto, Remote-Canada 
+</p>
+
+<h2><strong>Who we are </strong></h2>
+<h3><strong>About Stripe</strong></h3>
+<p><span>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitious st...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-north-american-underwriter)
+
+---
+### [Business Operations Senior Associate, Institutional](file://https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional)
+- **Company**: **Coinbase** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 148,835** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: `Go, SQL`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Remote - USA
+</p>
+
+<div class="content-intro"><p>Ready to do the most impactful work of your career? At&nbsp;<a href="https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase">Coinbase</a>, we are uncompromising on our missi...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/coinbase-business-operations-senior-associate-institutional)
+
+---
+### [Program Manager, Professional Services - West](file://https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west)
+- **Company**: **Airtable** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 179,500** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: `Go`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA; Remote - US
+</p>
+
+<div class="content-intro"><p>Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune ...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-west)
+
+---
+### [Credit Risk Analyst Commercial Underwriter, West Coast](file://https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast)
+- **Company**: **Stripe** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `SQL`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> Chicago, US-Remote, Canada-Remote
+</p>
+
+<h2><strong>Who we are </strong></h2>
+<h3><strong>About Stripe</strong></h3>
+<p>Stripe is a financial infrastructure platform for businesses. Millions of companies—from the world's largest enterprises to the most ambitiou...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/stripe-credit-risk-analyst-commercial-underwriter-west-coast)
+
+---
+### [Program Manager, Professional Services - East](file://https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-east)
+- **Company**: **Airtable** (SMB)
+- **Location**: Worldwide Remote (remote_only)
+- **Source**: `weworkremotely` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 179,500** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `Disability-Inclusive Opportunities` | `DEI Commitment`
+- **Key Skills**: `Go`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> 
+
+<p>
+  <strong>Headquarters:</strong> New York, NY; Remote - US
+</p>
+
+<div class="content-intro"><p>Airtable is the no-code app platform that empowers people closest to the work to accelerate their most critical business processes. More than 500,000 organizations, including 80% of the Fortune 100, ...
+
+[👉 Direct Application Link](https://weworkremotely.com/remote-jobs/airtable-program-manager-professional-services-east)
+
+---
+### [Senior Systems Administrator & Cloud Infrastructure Lead](file://https://www.myjobmag.com/ghana/job/systems-admin-mtn)
+- **Company**: **MTN Ghana / FinTech Hub** (ENTERPRISE)
+- **Location**: Accra, Greater Accra, Ghana (hybrid)
+- **Source**: `myjobmag` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-05
+- **Salary**: **GHS 22,000 - 35,000** (exact)
+- **Visa Sponsorship**: `NO`
+- **Diversity Badges**: `Women in Tech Initiatives` | `BIPOC / Underrepresented Minorities` | `DEI Commitment`
+- **Key Skills**: `Linux, Systems Administration, Network Engineering, Docker, AWS, Bash, Security+`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> MTN Ghana is seeking a Senior Systems Administrator to manage cloud infrastructure, Linux servers, networking, Docker containers, and security policies in Accra. We actively encourage applications from women in technology and underrepresented groups in African telecom....
+
+[👉 Direct Application Link](https://www.myjobmag.com/ghana/job/systems-admin-mtn)
+
+---
+### [Full-Stack Web Developer (Node.js & React)](file://https://tonaton.com/jobs/fullstack-developer-swoove)
+- **Company**: **Swoove Delivery Ghana** (STARTUP)
+- **Location**: Accra, Ghana (hybrid)
+- **Source**: `tonaton` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-03
+- **Salary**: **GHS 14,000 - 22,000** (exact)
+- **Visa Sponsorship**: `NO`
+- **Diversity Badges**: `Women in Tech Initiatives` | `BIPOC / Underrepresented Minorities`
+- **Key Skills**: `JavaScript, TypeScript, Node.js, Express, React, MongoDB, REST API`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> Swoove Delivery is seeking a Full-Stack Developer in Accra to build scalable logistics APIs using Node.js, Express, React, TypeScript, and MongoDB. We encourage female software engineers and young Ghanaian talent to apply....
+
+[👉 Direct Application Link](https://tonaton.com/jobs/fullstack-developer-swoove)
+
+---
+### [Senior Cloud Security Engineer (Visa & Relocation Provided)](file://https://relocate.me/jobs/senior-cloud-security-engineer-amsterdam)
+- **Company**: **Booking.com / Tech Hub Netherlands** (ENTERPRISE)
+- **Location**: Amsterdam, Netherlands (Relocation Available) (hybrid)
+- **Source**: `relocateme` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-25
+- **Salary**: **EUR 75,000 - 110,000** (exact)
+- **Visa Sponsorship**: `YES`
+- **Diversity Badges**: `African Diaspora Talent Programs` | `BIPOC / Underrepresented Minorities` | `Women in Tech Initiatives` | `LGBTQ+ Friendly Workplace Badges`
+- **Key Skills**: `AWS, GCP, Kubernetes, Cybersecurity, SIEM, Python, Security+`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> Booking.com in Amsterdam is hiring a Senior Cloud Security Engineer to secure AWS/GCP infrastructure, Kubernetes clusters, and SIEM monitoring. Full international visa sponsorship (EU Blue Card), flight tickets, and 30% tax facility relocation package provided for African and global talent....
+
+[👉 Direct Application Link](https://relocate.me/jobs/senior-cloud-security-engineer-amsterdam)
+
+---
+### [IT Project Manager & Technical Operations Lead](file://https://jobhouse.com.gh/job/it-project-manager-fidelity)
+- **Company**: **Fidelity Bank Ghana** (ENTERPRISE)
+- **Location**: Accra, Ghana (hybrid)
+- **Source**: `jobhouse` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-07
+- **Salary**: **GHS 25,000 - 40,000** (exact)
+- **Visa Sponsorship**: `NO`
+- **Diversity Badges**: `Women in Tech Initiatives` | `BIPOC / Underrepresented Minorities` | `DEI Commitment`
+- **Key Skills**: `IT Project Management, Agile, Scrum Master, PMP, Technical Leadership, Jira`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> Fidelity Bank Ghana is hiring an IT Project Manager in Accra to direct digital banking transformations, software delivery, and cloud infrastructure projects. Agile/PMP certification preferred. We promote female leadership in banking and tech....
+
+[👉 Direct Application Link](https://jobhouse.com.gh/job/it-project-manager-fidelity)
 
 ---
 ### [Cabin Cleaning Agent](file://https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812)
@@ -377,5 +783,236 @@
 > intechnative.com<br><br>Performing security verification<br><br>This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.<br><br>Verification successful. Waiting for intechnative.com to respond<br><br>Enable JavaScrip...
 
 [👉 Direct Application Link](https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776)
+
+---
+### [Tech Lead Full-Stack Rails Engineer](file://https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746)
+- **Company**: **Mitre Media** (SMB)
+- **Location**: USA, Canada, USA timezones (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-14 | **Deadline**: 2026-09-15
+- **Salary**: **USD 160,000** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `Tailwind, React, Ruby, HTML5?, Redis, MySQL, CSS3?, PostgreSQL, Kubernetes, Elasticsearch, Docker, JavaScript`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p class="h1" dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 24pt; margin-bottom: 0pt; padding: 0pt 0pt 6pt 0pt;"><span style="color: #000000; font-weight: bold; white-space-collapse: preserve;">About Mitre Media</span></p>
+<p dir="ltr" style="line-height: 1.38; backgroun...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/software-development/tech-lead-full-stack-rails-engineer-2069746)
+
+---
+### [Face Deduplication Collection](file://https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093)
+- **Company**: **TELUS Digital** (SMB)
+- **Location**: USA (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-13 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p style="border-color: #e5e7eb; --tw-shadow: 0 0 #0000; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-tr...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/all-others/face-deduplication-collection-2091093)
+
+---
+### [Remote Office Assistant](file://https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495)
+- **Company**: **Coalition Technologies ** (SMB)
+- **Location**: Worldwide (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-11 | **Deadline**: 2026-09-15
+- **Salary**: **USD 15** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p class="h3">Coalition Technologies is seeking a reliable, detail-oriented, and highly organized Remote Office Assistant to support administrative, bookkeeping, billing, reporting, data entry, and internal operations tasks. This role is ideal for someone with strong communication skills, discretion...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/marketing/remote-office-assistant-1680495)
+
+---
+### [Inside Sales Contractor](file://https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)
+- **Company**: **Credit Wellness, LLC** (SMB)
+- **Location**: Worldwide (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-08 | **Deadline**: 2026-09-15
+- **Salary**: **USD 500** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p dir="ltr" style="line-height: 1.38; background-color: #ffffff; margin-top: 0pt; margin-bottom: 0pt; padding: 0pt 0pt 12pt 0pt;"><span style="color: #2d2d2d; background-color: transparent; font-weight: bold; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline;...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/sales/inside-sales-contractor-2086540)
+
+---
+### [Tier III Service Desk Engineer](file://https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045)
+- **Company**: **Unio Digital** (SMB)
+- **Location**: Worldwide (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-07 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `Azure`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p class="MsoNormal" style="margin: 0in 0in 8pt; line-height: 15.6933px; color: #000000;">Unió Digital is an Arizona-based managed service provider (MSP) delivering Managed IT Services, Low Voltage Cabling, Access Control, Video Surveillance, and Intrusion Services. We believe technology should be i...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/information-technology/tier-iii-service-desk-engineer-2091045)
+
+---
+### [Sales Jedi](file://https://remotive.com/remote-jobs/sales/sales-jedi-2091088)
+- **Company**: **Creative Force ** (SMB)
+- **Location**: Europe (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-05 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <div class="h2" style="padding: 10px 0px; border-style: none; outline: 0px; text-size-adjust: 100%; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; bac...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/sales/sales-jedi-2091088)
+
+---
+### [SaaS Product Support Jedi](file://https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087)
+- **Company**: **Creative Force** (SMB)
+- **Location**: Europe, EMEA, UK, Germany, France, European timezones (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-05 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `CSS3?, HTML5?, Go`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p style="padding: 0px 0px 1em; border-style: none; outline: 0px; text-size-adjust: 100%; vertical-align: baseline; background-image: initial; background-position: initial; background-size: initial; background-repeat: initial; background-attachment: initial; background-origin: initial; background-cl...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/customer-service/saas-product-support-jedi-2091087)
+
+---
+### [Freelance Writer](file://https://remotive.com/remote-jobs/writing/freelance-writer-1185979)
+- **Company**: **IAPWE** (SMB)
+- **Location**: Worldwide (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-04 | **Deadline**: 2026-09-15
+- **Salary**: **USD 20** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal; color: #000000;">Our organization is seeking content writers to create articles and blog posts on a variety of topics.</p>
+<p class="p1" style="font-variant-numeric: normal;...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/writing/freelance-writer-1185979)
+
+---
+### [Freelance Copywriter](file://https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306)
+- **Company**: **Coalition Technologies ** (SMB)
+- **Location**: Worldwide (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-08-02 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p>CT Marketing Agency is seeking skilled Freelance Copywriters to write high-quality, SEO-driven content for eCommerce and lead generation websites. This is a freelance, project-based writing role.</p>
+<p> </p>
+<p>The ideal candidate has excellent English writing skills, strong research ability, an...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/writing/freelance-copywriter-1749306)
+
+---
+### [Senior Graphic Designer](file://https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081)
+- **Company**: **Lemon.io** (SMB)
+- **Location**: Americas, Europe, Asia, Africa, Oceania (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-07-28 | **Deadline**: 2026-09-15
+- **Salary**: **USD 11** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `React, Golang, Swift, Ruby, Node.js, Python, Angular, PHP, Vue, Java, TypeScript, Dart, Flutter, React Native, JavaScript, Rust, Laravel, Next.js`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p>Are you a talented Senior Designer looking for a remote job that lets you show your skills and get decent compensation? Look no further than <span class="notion-enable-hover" style="color: #c14c8a; fill: #c14c8a; isolation: auto;"><a href="https://lemon.io/for-developers/?utm_source=remotive&amp;...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/design/senior-graphic-designer-2091081)
+
+---
+### [Data Labeling Specialists](file://https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903)
+- **Company**: **Workada** (SMB)
+- **Location**: USA (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-07-26 | **Deadline**: 2026-09-15
+- **Salary**: **USD 17** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: `HTML5?`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p><u>Who We Are</u><br><br>Workada creates high-quality labeled data for advanced technology systems. Our team reviews, organizes, categorizes, evaluates, and quality-checks digital content so those systems can better understand information and perform real-world tasks.<br>We believe careful data w...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/data/data-labeling-specialists-2090903)
+
+---
+### [Business Development Representative](file://https://remotive.com/remote-jobs/sales/business-development-representative-2091075)
+- **Company**: **Outsite** (SMB)
+- **Location**: Northern America, Europe, UK, France, European timezones (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-07-23 | **Deadline**: 2026-09-15
+- **Salary**: **USD 45,000 - 50,000** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #000000; background-color: transparent; font-weight: 400; font-style: normal; font-variant: normal; text-decoration: none; vertical-align: baseline; white-space: pre-wrap;">## About Outsite</span></p>
+<p...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/sales/business-development-representative-2091075)
+
+---
+### [Content Reviewer - United States](file://https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074)
+- **Company**: **TELUS Digital** (SMB)
+- **Location**: USA (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-07-23 | **Deadline**: 2026-09-15
+- **Salary**: **Not Specified** (not_provided)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p class="figma-padding-bottom-32 tw-border-b tw-border-[#E3E6E8]" style="border-width: 0px 0px 1px; border-color: #e3e6e8; --tw-shadow: 0 0 #0000; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: ...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/all-others/content-reviewer-united-states-2091074)
+
+---
+### [Patient Care Specialist](file://https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069)
+- **Company**: **STATLINX** (SMB)
+- **Location**: USA (remote_only)
+- **Source**: `remotive` | **Posted**: 2026-07-16 | **Deadline**: 2026-09-15
+- **Salary**: **USD 17** (exact)
+- **Visa Sponsorship**: `NOT_MENTIONED`
+- **Diversity Badges**: `DEI Commitment`
+- **Key Skills**: ``
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> <p class="jd-section-employer" style="-webkit-font-smoothing: auto; -webkit-tap-highlight-color: transparent; box-sizing: inherit; color: #595959;"> </p>
+<p class="jd-description-text" style="-webkit-font-smoothing: auto; -webkit-tap-highlight-color: transparent; box-sizing: inherit;"> </p>
+<p style...
+
+[👉 Direct Application Link](https://remotive.com/remote-jobs/medical/patient-care-specialist-2091069)
 
 ---
