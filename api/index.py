@@ -2,9 +2,12 @@ import sys
 import os
 
 # Add root directory to sys.path
-sys.path.append(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+if BASE_DIR not in sys.path:
+    sys.path.insert(0, BASE_DIR)
 
 from server import app
 
-# Vercel serverless handler
+# Export both app and handler for Vercel Python runtime compatibility
 app = app
+handler = app

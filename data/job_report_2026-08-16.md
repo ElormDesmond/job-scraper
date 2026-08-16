@@ -139,6 +139,22 @@
 [👉 Direct Application Link](https://expresspaygh.com/careers/backend-engineer)
 
 ---
+### [Senior Full-Stack Engineer (Next.js & Python)](file://https://remoteok.com/jobs/senior-fullstack-engineer-afrotech)
+- **Company**: **AfroTech Global Systems** (SMB)
+- **Location**: Accra, Ghana (Remote) (remote_only)
+- **Source**: `remoteok` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-10
+- **Salary**: **USD 45,000 - 75,000** (exact)
+- **Visa Sponsorship**: `YES`
+- **Diversity Badges**: `BIPOC / Underrepresented Minorities` | `Women in Tech Initiatives` | `African Diaspora Talent Programs`
+- **Key Skills**: `Python, JavaScript, TypeScript, Next.js, React, FastAPI, AWS, Docker`
+- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
+
+> **Description Summary**:  
+> We are seeking a Senior Full-Stack Engineer based in Ghana or West Africa to design scalable web applications using Next.js, React, Python, FastAPI, and AWS. We actively encourage applications from underrepresented minorities, women in tech, and African diaspora talent....
+
+[👉 Direct Application Link](https://remoteok.com/jobs/senior-fullstack-engineer-afrotech)
+
+---
 ### [Cabin Cleaning Agent](file://https://remoteOK.com/remote-jobs/remote-cabin-cleaning-agent-menzies-aviation-1136812)
 - **Company**: **Menzies Aviation** (SMB)
 - **Location**: Hounslow,  (remote_only)
@@ -361,21 +377,5 @@
 > intechnative.com<br><br>Performing security verification<br><br>This website uses a security service to protect against malicious bots. This page is displayed while the website verifies you are not a bot.<br><br>Verification successful. Waiting for intechnative.com to respond<br><br>Enable JavaScrip...
 
 [👉 Direct Application Link](https://remoteOK.com/remote-jobs/remote-quality-checker-intechnative-1136776)
-
----
-### [Senior Full-Stack Engineer (Next.js & Python)](file://https://remoteok.com/jobs/senior-fullstack-engineer-afrotech)
-- **Company**: **AfroTech Global Systems** (SMB)
-- **Location**: Accra, Ghana (Remote) (remote_only)
-- **Source**: `remoteok` | **Posted**: 2026-08-16 | **Deadline**: 2026-09-10
-- **Salary**: **USD 45,000 - 75,000** (exact)
-- **Visa Sponsorship**: `YES`
-- **Diversity Badges**: `BIPOC / Underrepresented Minorities` | `Women in Tech Initiatives` | `African Diaspora Talent Programs`
-- **Key Skills**: `Python, JavaScript, TypeScript, Next.js, React, FastAPI, AWS, Docker`
-- **Verification**: `STATUS: VERIFIED` | `COMPANY VERIFIED: YES`
-
-> **Description Summary**:  
-> We are seeking a Senior Full-Stack Engineer based in Ghana or West Africa to design scalable web applications using Next.js, React, Python, FastAPI, and AWS. We actively encourage applications from underrepresented minorities, women in tech, and African diaspora talent....
-
-[👉 Direct Application Link](https://remoteok.com/jobs/senior-fullstack-engineer-afrotech)
 
 ---

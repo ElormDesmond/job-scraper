@@ -4,9 +4,19 @@ import datetime
 import os
 from typing import List, Dict, Any
 
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+IS_VERCEL = os.environ.get("VERCEL", "0") == "1" or os.environ.get("AWS_LAMBDA_FUNCTION_NAME") is not None
+
+def get_writable_dir() -> str:
+    if IS_VERCEL:
+        return "/tmp"
+    data_dir = os.path.join(BASE_DIR, "data")
+    os.makedirs(data_dir, exist_ok=True)
+    return data_dir
+
 class DataExporter:
-    def __init__(self, output_dir: str = "/home/kali/Projects/antigravity_job_scraper/data"):
-        self.output_dir = output_dir
+    def __init__(self, output_dir: str = None):
+        self.output_dir = output_dir or get_writable_dir()
         os.makedirs(self.output_dir, exist_ok=True)
 
     def export_csv(self, jobs: List[Dict[str, Any]]) -> str:

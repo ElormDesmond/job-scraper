@@ -1,6 +1,7 @@
 import schedule
 import time
 import json
+import os
 import logging
 import datetime
 from scrapers.scraper_manager import ScraperManager
@@ -11,9 +12,12 @@ from storage.exporter import DataExporter
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 class JobScraperScheduler:
-    def __init__(self, config_path: str = "/home/kali/Projects/antigravity_job_scraper/config.json"):
-        with open(config_path, 'r', encoding='utf-8') as f:
+    def __init__(self, config_path: str = None):
+        self.config_path = config_path or os.path.join(BASE_DIR, "config.json")
+        with open(self.config_path, 'r', encoding='utf-8') as f:
             self.config = json.load(f)
         self.db = DatabaseManager()
         self.exporter = DataExporter()

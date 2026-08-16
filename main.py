@@ -1,4 +1,5 @@
 import sys
+import os
 import argparse
 import json
 import logging
@@ -11,7 +12,8 @@ from storage.exporter import DataExporter
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s")
 
-CONFIG_PATH = "/home/kali/Projects/antigravity_job_scraper/config.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
 
 def main():
     parser = argparse.ArgumentParser(description="Antigravity Job Scraper CLI")

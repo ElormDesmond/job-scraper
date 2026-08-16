@@ -1,17 +1,35 @@
 import sqlite3
 import json
 import os
+import shutil
 import datetime
 from typing import List, Dict, Any
 
+# Determine project root directory dynamically
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+# Check if running in a read-only environment like Vercel Lambda
+IS_VERCEL = os.environ.get("VERCEL", "0") == "1" or os.environ.get("AWS_LAMBDA_FUNCTION_NAME") is not None
+
+def get_writable_dir() -> str:
+    if IS_VERCEL:
+        return "/tmp"
+    data_dir = os.path.join(BASE_DIR, "data")
+    os.makedirs(data_dir, exist_ok=True)
+    return data_dir
+
 class DatabaseManager:
-    def __init__(self, db_path: str = "/home/kali/Projects/antigravity_job_scraper/data/jobs.db", json_path: str = "/home/kali/Projects/antigravity_job_scraper/data/jobs_database.json"):
-        self.db_path = db_path
-        self.json_path = json_path
-        os.makedirs(os.path.dirname(self.db_path), exist_ok=True)
+    def __init__(self, db_path: str = None, json_path: str = None):
+        target_dir = get_writable_dir()
+        self.db_path = db_path or os.path.join(target_dir, "jobs.db")
+        self.json_path = json_path or os.path.join(target_dir, "jobs_database.json")
+        self.seed_json_path = os.path.join(BASE_DIR, "data", "jobs_database.json")
+        
         self._init_sqlite()
+        self._seed_if_empty()
 
     def _init_sqlite(self):
+        os.makedirs(os.path.dirname(self.db_path), exist_ok=True)
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
             cursor.execute('''
@@ -37,6 +55,18 @@ class DatabaseManager:
             ''')
             conn.commit()
 
+    def _seed_if_empty(self):
+        # If DB is empty, seed from bundled jobs_database.json
+        all_jobs = self.get_all_jobs()
+        if not all_jobs and os.path.exists(self.seed_json_path):
+            try:
+                with open(self.seed_json_path, 'r', encoding='utf-8') as f:
+                    seed_data = json.load(f)
+                    if isinstance(seed_data, list) and len(seed_data) > 0:
+                        self.save_jobs(seed_data)
+            except Exception as e:
+                print(f"Error seeding initial database: {e}")
+
     def save_jobs(self, jobs: List[Dict[str, Any]]):
         with sqlite3.connect(self.db_path) as conn:
             cursor = conn.cursor()
@@ -47,41 +77,54 @@ class DatabaseManager:
                     (job_id, job_title, company_name, location, work_location_type, country, posting_date, source, source_url, salary_min, salary_max, currency, verification_status, company_verified, posting_active, last_checked, raw_data)
                     VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ''', (
-                    j["job_id"],
-                    j["job_title"],
-                    j["company_name"],
-                    j["location"],
-                    j["work_location_type"],
-                    j["country"],
-                    j["posting_date"],
-                    j["source"],
-                    j["source_url"],
+                    j.get("job_id"),
+                    j.get("job_title"),
+                    j.get("company_name"),
+                    j.get("location"),
+                    j.get("work_location_type"),
+                    j.get("country"),
+                    j.get("posting_date"),
+                    j.get("source"),
+                    j.get("source_url"),
                     sal.get("min", 0),
                     sal.get("max", 0),
                     sal.get("currency", "USD"),
-                    j["verification_status"],
-                    j["company_verified"],
-                    j["posting_active"],
-                    j["last_checked"],
+                    j.get("verification_status", "verified"),
+                    j.get("company_verified", "yes"),
+                    j.get("posting_active", "yes"),
+                    j.get("last_checked", datetime.datetime.utcnow().isoformat() + "Z"),
                     json.dumps(j)
                 ))
             conn.commit()
 
         # Update cumulative JSON database
         all_jobs = self.get_all_jobs()
-        with open(self.json_path, 'w', encoding='utf-8') as f:
-            json.dump(all_jobs, f, indent=2)
+        try:
+            with open(self.json_path, 'w', encoding='utf-8') as f:
+                json.dump(all_jobs, f, indent=2)
+        except Exception:
+            pass
 
     def get_all_jobs(self) -> List[Dict[str, Any]]:
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            cursor.execute('SELECT raw_data FROM jobs ORDER BY posting_date DESC')
-            rows = cursor.fetchall()
-            return [json.loads(r[0]) for r in rows]
+        try:
+            with sqlite3.connect(self.db_path) as conn:
+                cursor = conn.cursor()
+                cursor.execute('SELECT raw_data FROM jobs ORDER BY posting_date DESC')
+                rows = cursor.fetchall()
+                if rows:
+                    return [json.loads(r[0]) for r in rows]
+        except Exception as e:
+            print(f"Database fetch error: {e}")
+
+        # Fallback to reading seed JSON file if SQLite fails or is empty
+        if os.path.exists(self.seed_json_path):
+            try:
+                with open(self.seed_json_path, 'r', encoding='utf-8') as f:
+                    return json.load(f)
+            except Exception:
+                pass
+        return []
 
     def get_active_verified_jobs(self) -> List[Dict[str, Any]]:
-        with sqlite3.connect(self.db_path) as conn:
-            cursor = conn.cursor()
-            cursor.execute('SELECT raw_data FROM jobs WHERE posting_active = "yes" ORDER BY posting_date DESC')
-            rows = cursor.fetchall()
-            return [json.loads(r[0]) for r in rows]
+        jobs = self.get_all_jobs()
+        return [j for j in jobs if j.get("posting_active") == "yes"]

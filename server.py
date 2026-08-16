@@ -14,19 +14,21 @@ from storage.exporter import DataExporter
 
 app = FastAPI(title="Antigravity Job Scraper & Monitoring System", version="1.0.0")
 
-CONFIG_PATH = "/home/kali/Projects/antigravity_job_scraper/config.json"
-PREFS_PATH = "/home/kali/Projects/antigravity_job_scraper/user_preferences.json"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+CONFIG_PATH = os.path.join(BASE_DIR, "config.json")
+PREFS_PATH = os.path.join(BASE_DIR, "user_preferences.json")
+DASHBOARD_DIR = os.path.join(BASE_DIR, "dashboard")
 
 db = DatabaseManager()
 exporter = DataExporter()
 
-# Serve static dashboard files
-dashboard_dir = "/home/kali/Projects/antigravity_job_scraper/dashboard"
-app.mount("/static", StaticFiles(directory=dashboard_dir), name="static")
+# Mount dashboard static files if directory exists
+if os.path.exists(DASHBOARD_DIR):
+    app.mount("/static", StaticFiles(directory=DASHBOARD_DIR), name="static")
 
 @app.get("/", response_class=HTMLResponse)
 def read_root():
-    index_file = os.path.join(dashboard_dir, "index.html")
+    index_file = os.path.join(DASHBOARD_DIR, "index.html")
     if os.path.exists(index_file):
         with open(index_file, 'r', encoding='utf-8') as f:
             return f.read()
@@ -44,11 +46,11 @@ def get_jobs(
     jobs = db.get_all_jobs()
     filtered = []
     for j in jobs:
-        if query and not (query.lower() in j["job_title"].lower() or query.lower() in j["company_name"].lower() or query.lower() in j["job_description_raw"].lower()):
+        if query and not (query.lower() in (j.get("job_title") or "").lower() or query.lower() in (j.get("company_name") or "").lower() or query.lower() in (j.get("job_description_raw") or "").lower()):
             continue
-        if location and not (location.lower() in j["location"].lower() or location.lower() in j["country"].lower()):
+        if location and not (location.lower() in (j.get("location") or "").lower() or location.lower() in (j.get("country") or "").lower()):
             continue
-        if category and not (category.lower() in j["job_title"].lower() or any(category.lower() in k.lower() for k in j.get("required_skills", []))):
+        if category and not (category.lower() in (j.get("job_title") or "").lower() or any(category.lower() in k.lower() for k in j.get("required_skills", []))):
             continue
         if visa_only and j.get("visa_sponsorship") not in ["yes", "case_by_case"]:
             continue
@@ -63,8 +65,10 @@ def get_jobs(
 
 @app.post("/api/scrape")
 def trigger_scrape():
-    with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
-        config = json.load(f)
+    config = {}
+    if os.path.exists(CONFIG_PATH):
+        with open(CONFIG_PATH, 'r', encoding='utf-8') as f:
+            config = json.load(f)
     manager = ScraperManager(config)
     raw_jobs = manager.run_all()
     existing_jobs = db.get_all_jobs()
@@ -131,8 +135,11 @@ class PrefsModel(BaseModel):
 
 @app.post("/api/preferences")
 def update_preferences(prefs: PrefsModel):
-    with open(PREFS_PATH, 'w', encoding='utf-8') as f:
-        json.dump(prefs.dict(), f, indent=2)
+    try:
+        with open(PREFS_PATH, 'w', encoding='utf-8') as f:
+            json.dump(prefs.dict(), f, indent=2)
+    except Exception:
+        pass
     return {"status": "success", "data": prefs.dict()}
 
 @app.get("/api/health")
@@ -153,4 +160,4 @@ def health_check():
 
 if __name__ == "__main__":
     import uvicorn
-    uvicorn.run("server:app", host="0.0.0.0", port=8000, reload=False)
+    uvicorn.run("server:app", host="0.0.0.0", port=8085, reload=False)
